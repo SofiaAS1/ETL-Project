@@ -1,0 +1,125 @@
+body {
+  background:lightgray;
+}
+p {
+  margin: 25px;
+  font-size:20px;
+  text-align:justify;
+}
+ul {
+  list-style-position: inside;
+  font-size:20px;
+}
+ol {
+  list-style-position: inside;
+  font-size:20px;
+}
+h1 {
+  color: teal;
+  font-family:"Arial Black", Gadget, sans-serif;
+  font-weight:bold;
+  margin:15px;
+}
+
+h2 {
+color: black;
+font-size: 24px;
+margin:15px;
+}
+
+h3 {
+  color: teal;
+  font-weight:bold;
+text-align:center;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 20px;
+}
+img:hover {
+  box-shadow: 0 0 2px 1px teal(0, 140, 186, 0.5);
+  border: 3px solid teal;
+}
+img:active {
+  box-shadow: 0 0 2px 1px teal(0, 140, 186, 0.5);
+  border: 3px solid teal;
+  border-color: teal !important;
+}
+.table {
+  margin-left: auto;
+  margin-right: auto;
+}
+.col-lg-1 {
+background: lightgray
+}
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: teal;
+  color: white;
+}
+.display-4 {
+  color: rgb(97, 97, 97);
+  font-weight: bold;
+  margin:15px
+}
+.display-3 {
+  color: teal;
+  font-weight: bold;
+  text-align: center;
+  margin:15px;
+  font-size: 65px;
+}
+.display-2 {
+  color: teal;
+  font-weight: bold;
+  margin:15px;
+  font-size: 75px;
+}
+.col-lg-6 {
+background: white;
+margin:25px;
+}
+.col-lg-3 {
+  background: white;
+}
+.col-lg-4 {
+  background: white;
+}
+.col-lg-8 {
+  background:white;
+}
+
+.col-lg-12 {
+  color:teal;
+  font-weight: bolder;
+  margin:15px;
+}
+.navbar-light .navbar-brand {
+  color:white
+}
+.caption {
+  color:teal;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  text-align:center;
+}
+
+@media (max-width: 600px) {
+  .bg-white {
+    background-color: teal !important;
+}
+.caption {
+  color:teal;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align:center;
+}
+}

@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">   
+    <title>June Unemployment</title>
+  </head>
+  
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+        <a class="navbar-brand hometext" href="index.html">June Unemployment (Project Report)</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <div class="dropdown">
+              <button class="btn dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                State Data
+              </button>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                <a class="dropdown-item" href="dataca.html">California</a>
+                <a class="dropdown-item" href="datafl.html">Florida</a>
+                <a class="dropdown-item" href="datany.html">New York</a>
+              </div>
+            </div>
+            
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="fulldata.html">Full Data</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="map.html">Map</a>
+          </li>
+        </ul>
+      </div>
+    </nav>  
+
+  <div class="row">
+    <div class=col-lg-12></div></div>
+    <div class="row">
+      <div class=col-lg-12></div></div>
+  <div class="row">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-8 lg-secondary">
+  <h1 class="display-3">NY Data</h1>
+  <hr>
+  <h2>The following table includes the June unemployment rates per county for the state of New York.</h2>
+  <br>
+  <div class="table-responsive">
+    <table class="table table-striped w-auto">
+        <thead>
+                  <tr style="text-align: center;">
+                    <th></th>
+                    <th>Month</th>
+                    <th>County</th>
+                    <th>Unemployment_Rate</th>
+                    <th>Year</th>
+                    <th>State</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th>0</th>
+                    <td>June</td>
+                    <td>Hamilton County</td>
+                    <td>7.7</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>1</th>
+                    <td>June</td>
+                    <td>Chenango County</td>
+                    <td>8.4</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>2</th>
+                    <td>June</td>
+                    <td>Yates County</td>
+                    <td>8.5</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>3</th>
+                    <td>June</td>
+                    <td>Columbia County</td>
+                    <td>8.8</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>4</th>
+                    <td>June</td>
+                    <td>Tompkins County</td>
+                    <td>8.9</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>5</th>
+                    <td>June</td>
+                    <td>Delaware County</td>
+                    <td>9.2</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>6</th>
+                    <td>June</td>
+                    <td>Lewis County</td>
+                    <td>9.2</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>7</th>
+                    <td>June</td>
+                    <td>Wyoming County</td>
+                    <td>9.2</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>8</th>
+                    <td>June</td>
+                    <td>Otsego County</td>
+                    <td>9.3</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>9</th>
+                    <td>June</td>
+                    <td>Schoharie County</td>
+                    <td>9.3</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>10</th>
+                    <td>June</td>
+                    <td>Livingston County</td>
+                    <td>9.5</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>11</th>
+                    <td>June</td>
+                    <td>Genesee County</td>
+                    <td>9.6</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>12</th>
+                    <td>June</td>
+                    <td>Washington County</td>
+                    <td>9.8</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>13</th>
+                    <td>June</td>
+                    <td>Wayne County</td>
+                    <td>9.8</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>14</th>
+                    <td>June</td>
+                    <td>Herkimer County</td>
+                    <td>9.9</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>15</th>
+                    <td>June</td>
+                    <td>Rensselaer County</td>
+                    <td>9.9</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>16</th>
+                    <td>June</td>
+                    <td>Ontario County</td>
+                    <td>10.2</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>17</th>
+                    <td>June</td>
+                    <td>Saratoga County</td>
+                    <td>10.2</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>18</th>
+                    <td>June</td>
+                    <td>Clinton County</td>
+                    <td>10.3</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>19</th>
+                    <td>June</td>
+                    <td>Cortland County</td>
+                    <td>10.3</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>20</th>
+                    <td>June</td>
+                    <td>Tioga County</td>
+                    <td>10.3</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>21</th>
+                    <td>June</td>
+                    <td>Albany County</td>
+                    <td>10.4</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>22</th>
+                    <td>June</td>
+                    <td>Essex County</td>
+                    <td>10.5</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>23</th>
+                    <td>June</td>
+                    <td>Allegany County</td>
+                    <td>10.6</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>24</th>
+                    <td>June</td>
+                    <td>Cayuga County</td>
+                    <td>10.6</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>25</th>
+                    <td>June</td>
+                    <td>Madison County</td>
+                    <td>10.6</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>26</th>
+                    <td>June</td>
+                    <td>St. Lawrence County</td>
+                    <td>10.7</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>27</th>
+                    <td>June</td>
+                    <td>Oneida County</td>
+                    <td>11.0</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>28</th>
+                    <td>June</td>
+                    <td>Orleans County</td>
+                    <td>11.0</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>29</th>
+                    <td>June</td>
+                    <td>Seneca County</td>
+                    <td>11.0</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>30</th>
+                    <td>June</td>
+                    <td>Franklin County</td>
+                    <td>11.1</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>31</th>
+                    <td>June</td>
+                    <td>Schuyler County</td>
+                    <td>11.1</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>32</th>
+                    <td>June</td>
+                    <td>Steuben County</td>
+                    <td>11.1</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>33</th>
+                    <td>June</td>
+                    <td>Chautauqua County</td>
+                    <td>11.2</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>34</th>
+                    <td>June</td>
+                    <td>Jefferson County</td>
+                    <td>11.2</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>35</th>
+                    <td>June</td>
+                    <td>Putnam County</td>
+                    <td>11.2</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>36</th>
+                    <td>June</td>
+                    <td>Broome County</td>
+                    <td>11.3</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>37</th>
+                    <td>June</td>
+                    <td>Fulton County</td>
+                    <td>11.3</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>38</th>
+                    <td>June</td>
+                    <td>Ulster County</td>
+                    <td>11.3</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>39</th>
+                    <td>June</td>
+                    <td>Dutchess County</td>
+                    <td>11.5</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>40</th>
+                    <td>June</td>
+                    <td>Greene County</td>
+                    <td>11.5</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>41</th>
+                    <td>June</td>
+                    <td>Montgomery County</td>
+                    <td>11.6</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>42</th>
+                    <td>June</td>
+                    <td>Warren County</td>
+                    <td>11.6</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>43</th>
+                    <td>June</td>
+                    <td>Schenectady County</td>
+                    <td>11.7</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>44</th>
+                    <td>June</td>
+                    <td>Oswego County</td>
+                    <td>11.8</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>45</th>
+                    <td>June</td>
+                    <td>Chemung County</td>
+                    <td>11.9</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>46</th>
+                    <td>June</td>
+                    <td>Monroe County</td>
+                    <td>11.9</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>47</th>
+                    <td>June</td>
+                    <td>Onondaga County</td>
+                    <td>12.1</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>48</th>
+                    <td>June</td>
+                    <td>Rockland County</td>
+                    <td>12.1</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>49</th>
+                    <td>June</td>
+                    <td>Sullivan County</td>
+                    <td>12.2</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>50</th>
+                    <td>June</td>
+                    <td>Westchester County</td>
+                    <td>12.5</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>51</th>
+                    <td>June</td>
+                    <td>Orange County</td>
+                    <td>12.7</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>52</th>
+                    <td>June</td>
+                    <td>Cattaraugus County</td>
+                    <td>12.9</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>53</th>
+                    <td>June</td>
+                    <td>Suffolk County</td>
+                    <td>12.9</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>54</th>
+                    <td>June</td>
+                    <td>Nassau County</td>
+                    <td>13.0</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>55</th>
+                    <td>June</td>
+                    <td>Erie County</td>
+                    <td>13.5</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>56</th>
+                    <td>June</td>
+                    <td>Niagara County</td>
+                    <td>14.6</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>57</th>
+                    <td>June</td>
+                    <td>New York County</td>
+                    <td>16.0</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>58</th>
+                    <td>June</td>
+                    <td>Richmond County</td>
+                    <td>18.1</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>59</th>
+                    <td>June</td>
+                    <td>Kings County</td>
+                    <td>20.5</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>60</th>
+                    <td>June</td>
+                    <td>Queens County</td>
+                    <td>21.8</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                  <tr>
+                    <th>61</th>
+                    <td>June</td>
+                    <td>Bronx County</td>
+                    <td>24.7</td>
+                    <td>2020</td>
+                    <td>NY</td>
+                  </tr>
+                </tbody>
+              </table>
+</div>
+</div>
+<div class="col-lg-2"></div>
+  </div>
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+    integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+    integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

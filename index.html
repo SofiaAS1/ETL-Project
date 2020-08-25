@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles.css">   
+  <title>June Unemployment</title>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <a class="navbar-brand hometext" href="index.html">June Unemployment (Project Report)</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <div class="dropdown">
+            <button class="btn dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              State Data
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
+              <a class="dropdown-item" href="dataca.html">California</a>
+              <a class="dropdown-item" href="datafl.html">Florida</a>
+              <a class="dropdown-item" href="datany.html">New York</a>
+            </div>
+          </div>
+          
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="fulldata.html">Full Data</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="map.html">Map</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+<div class="row">
+  <div class=col-lg-12></div></div>
+  <div class="row">
+    <div class=col-lg-12></div></div>
+<div class="row">
+  <div class="col-lg-1"></div>
+  <div class="col-lg-6 lg-secondary">
+    <h1 class="display-2">June Unemployment: </h1>
+    <h1 class="display-4">Data for CA, FL & NY</h1>
+    <hr>
+    <img class="w-50 float-left" target="_blank" src="Unemployment.jpg" alt="Unemployment Line">
+    <p>The purpose of this project was to review the unemployment rates across 3 States:</p>
+    <ul>
+      <li>California</li> 
+      <li>Florida</li> 
+      <li>New York</li>
+    </ul>
+    <p> so further analyses could be done in the future on the potential impact from COVID-19 and the 
+      associated effects of unemployment itself.
+    </p>
+    <br>
+    <p>Data for this project was acquired from CSVs from 3 State Labor Agencies:</p>
+    <ol>
+      <li><a target="_blank" href="https://www.labormarketinfo.edd.ca.gov/data/unemployment-and-labor-force.html">CA Source</a></li>
+      <li><a target="_blank" href="https://floridajobs.org/news-center/DEO-Press/2020/07/17/the-florida-department-of-economic-opportunity-announces-florida-s-unemployment-rate-for-june-2020#:~:text=The%20Florida%20Department%20of%20Economic%20Opportunity%20Announces%20Florida's%20Unemployment%20Rate%20for%20June%202020,-Jul%2017%2C%202020&text=TALLAHASSEE%2C%20Fla.,unemployment%20rate%20of%2013.7%20percent">FL Source</a></li>
+      <li><a target="_blank" href="https://www.labor.ny.gov/stats/LSLAUS.shtm">NY Source</a></li>
+    </ol>
+    <p>Data was initially cleaned in pandas and further checked in excel. Process involved first removing NaN values, then columns were renamed and indexes were reset. In 
+      some cases State, Year and/ or Month columns were added to keep information categories uniform across states. Dataframes 
+      were concatenated so that further study could be run more easily on the combined 
+      dataset. Individual State data can include unemployment rate info for county, city, state and/ 
+      or national; please see description for details. Map on this website includes 
+      an ERD to show how individual State datasets are related to the full dataset </p>
+      <hr>
+    <h3>Project by Katherine Manning & Sofia Sotillo</h3>  
+  </div>
+<div class="col-lg-1"></div>
+
+<div class="col-lg-3 lg-secondary">
+  <h1 class="display-3">DATA</h1>
+  <hr>
+  <div class="row">
+    <div class="col-md-6">
+      <div id="images">
+        <a href="dataca.html"><img width= "225px" src="CA.png" alt="CA Data" class="imageNav-photo"></a>
+        <a class="caption" href="dataca.html">California Data</a>
+</div>
+    </div>
+<div class="col-md-6">
+  <div id="images">
+        <a href="datafl.html"><img width= "225px" src="FL.png" alt="FL Data" class="imageNav-photo"></a>
+        <a class="caption" href="datafl.html">Florida Data</a> 
+      </div>
+        </div>
+  </div>
+    <div class="row">
+      <div class="col-md-6">
+        <div id="images">
+          <a href="datany.html"><img width= "225px" src="NY.png" alt="NY Data" class="imageNav-photo"></a>
+          <a class="caption" href="datany.html">New York Data</a>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div id="images">
+          <a href="fulldata.html"><img width= "237px" src="FULL.png" alt="Full Data" class="imageNav-photo"></a>
+          <br>
+          <a class="caption" href="fulldata.html">Full Data</a>  
+        </div>
+      </div>
+      </div>
+      <hr>
+      <h1 class="display-3">MAP</h1>
+      <hr>
+      <div class="row">
+        <div class="col-md-12">
+          <div id="images">
+            <a href="map.html"><img width= "250px" src="ERDDIAGRAM.png" alt="Database Map" class="imageNav-photo"></a>
+            <a class="caption" href="map.html">Database Map</a>
+    </div>
+        </div>
+      </div>
+</div>
+<div class="col-lg-1"></div>
+</div>
+<div class="row">
+  <div class=col-lg-12></div></div>
+  <div class="row">
+    <div class=col-lg-12></div></div>
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+    integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+    integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

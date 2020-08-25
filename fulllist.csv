@@ -1,0 +1,2206 @@
+Year ,Month,State,County,Unemployment_Rate
+2020,June,CA,Alameda County,13.5
+2020,June,CA,Alpine County,18.9
+2020,June,CA,Amador County,12.7
+2020,June,CA,Butte County,12.2
+2020,June,CA,Calaveras County,11
+2020,June,CA,Colusa County,18.4
+2020,June,CA,Contra Costa County,13.4
+2020,June,CA,Del Norte County,12.5
+2020,June,CA,El Dorado County,12.8
+2020,June,CA,Fresno County,14.5
+2020,June,CA,Glenn County,12.8
+2020,June,CA,Humboldt County,11.7
+2020,June,CA,Imperial County,27.4
+2020,June,CA,Inyo County,11
+2020,June,CA,Kern County,17.5
+2020,June,CA,Kings County,14.4
+2020,June,CA,Lake County,14.2
+2020,June,CA,Lassen County,9.4
+2020,June,CA,Los Angeles County,19.6
+2020,June,CA,Los Angeles County,19.4
+2020,June,CA,Madera County,13.9
+2020,June,CA,Marin County,10.1
+2020,June,CA,Mariposa County,14.1
+2020,June,CA,Mendocino County,12.4
+2020,June,CA,Merced County,15.6
+2020,June,CA,Modoc County,9.8
+2020,June,CA,Mono County,24.7
+2020,June,CA,Monterey County,14.4
+2020,June,CA,Napa County,12.6
+2020,June,CA,Nevada County,13.1
+2020,June,CA,Orange County,13.6
+2020,June,CA,Placer County,11.1
+2020,June,CA,Plumas County,13.7
+2020,June,CA,Riverside County,14.7
+2020,June,CA,Sacramento County,13.6
+2020,June,CA,San Benito County,13.7
+2020,June,CA,San Bernardino County,13.8
+2020,June,CA,San Diego County,13.8
+2020,June,CA,San Francisco County,12.5
+2020,June,CA,San Joaquin County,15.8
+2020,June,CA,San Luis Obispo County,11.5
+2020,June,CA,San Mateo County,10.8
+2020,June,CA,Santa Barbara County,11.5
+2020,June,CA,Santa Clara County,10.7
+2020,June,CA,Santa Cruz County,13.1
+2020,June,CA,Shasta County,11.5
+2020,June,CA,Sierra County,11.3
+2020,June,CA,Siskiyou County,12.4
+2020,June,CA,Solano County,13.6
+2020,June,CA,Sonoma County,11.6
+2020,June,CA,Stanislaus County,15
+2020,June,CA,Sutter County,15
+2020,June,CA,Tehama County,11.8
+2020,June,CA,Trinity County,9.6
+2020,June,CA,Tulare County,17.1
+2020,June,CA,Tuolumne County,14.3
+2020,June,CA,Ventura County,12.6
+2020,June,CA,Yolo County,10.5
+2020,June,CA,Yuba County,14.3
+2020,June,CA,Anaheim-Santa Ana-Irvine MD,13.6
+2020,June,CA,Bakersfield MSA,17.5
+2020,June,CA,Chico MSA,12.2
+2020,June,CA,El Centro MSA,27.4
+2020,June,CA,Fresno MSA,14.5
+2020,June,CA,Hanford-Corcoran MSA,14.4
+2020,June,CA,Los Angeles-Long Beach-Glendale MD,19.6
+2020,June,CA,Los Angeles-Long Beach-Glendale MD,19.4
+2020,June,CA,Madera MSA,13.9
+2020,June,CA,Merced MSA,15.6
+2020,June,CA,Modesto MSA,15
+2020,June,CA,Napa MSA,12.6
+2020,June,CA,Oakland-Hayward-Berkeley MD,13.5
+2020,June,CA,Oxnard-Thousand Oaks-Ventura MSA,12.6
+2020,June,CA,Redding MSA,11.5
+2020,June,CA,Riverside-San Bernardino-Ontario MSA,14.3
+2020,June,CA,Sacramento--Roseville--Arden-Arcade MSA,12.8
+2020,June,CA,Salinas MSA,14.4
+2020,June,CA,San Diego-Carlsbad MSA,13.8
+2020,June,CA,San Francisco-Redwood City-South San Francisco MD,11.8
+2020,June,CA,San Jose-Sunnyvale-Santa Clara MSA,10.8
+2020,June,CA,San Luis Obispo-Paso Robles-Arroyo Grande MSA,11.5
+2020,June,CA,San Rafael MD,10.1
+2020,June,CA,Santa Cruz-Watsonville MSA,13.1
+2020,June,CA,Santa Maria-Santa Barbara MSA,11.5
+2020,June,CA,Santa Rosa MSA,11.6
+2020,June,CA,Stockton-Lodi MSA,15.8
+2020,June,CA,Vallejo-Fairfield MSA,13.6
+2020,June,CA,Visalia-Porterville MSA,17.1
+2020,June,CA,Yuba City MSA,14.7
+2020,June,CA,Acton CDP,15.3
+2020,June,CA,Adelanto city,20.7
+2020,June,CA,Agoura Hills city,16.6
+2020,June,CA,Alameda city,13.5
+2020,June,CA,Alamo CDP,8.1
+2020,June,CA,Albany city,11.6
+2020,June,CA,Alhambra city,21.7
+2020,June,CA,Aliso Viejo city,11.6
+2020,June,CA,Alondra Park CDP,25.8
+2020,June,CA,Alpaugh CDP,34.4
+2020,June,CA,Alpine Village CDP,0
+2020,June,CA,Altadena CDP,15.2
+2020,June,CA,Alta Sierra CDP,7
+2020,June,CA,Alturas city,11
+2020,June,CA,Amador City city,15.8
+2020,June,CA,American Canyon city,16.1
+2020,June,CA,Anaheim city,16.3
+2020,June,CA,Anderson city,10.6
+2020,June,CA,Angels City city,0.4
+2020,June,CA,Angwin CDP,11.7
+2020,June,CA,Antioch city,17.1
+2020,June,CA,Apple Valley town,12.9
+2020,June,CA,Aptos CDP,4.7
+2020,June,CA,Aptos Hills Larkin Valley CDP,19.9
+2020,June,CA,Arbuckle CDP,23.1
+2020,June,CA,Arcadia city,16.4
+2020,June,CA,Arcata city,17.1
+2020,June,CA,Arden Arcade CDP,17.1
+2020,June,CA,Armona CDP,18.4
+2020,June,CA,Arnold CDP,13.8
+2020,June,CA,Aromas CDP (Monterey Co),10.8
+2020,June,CA,Arroyo Grande city,10.1
+2020,June,CA,Artesia city,16.5
+2020,June,CA,Arvin city,16.6
+2020,June,CA,Ashland CDP,20.2
+2020,June,CA,Atascadero city,10.7
+2020,June,CA,Atherton town,11.8
+2020,June,CA,Atwater city,15.2
+2020,June,CA,Auberry CDP,8.9
+2020,June,CA,Auburn city,12.1
+2020,June,CA,August CDP,28.3
+2020,June,CA,Avalon city,2
+2020,June,CA,Avenal city,21.8
+2020,June,CA,Avery CDP,22
+2020,June,CA,Avocado Heights CDP,23.3
+2020,June,CA,Azusa city,17.1
+2020,June,CA,Bakersfield city,16.4
+2020,June,CA,Baldwin Park city,20.7
+2020,June,CA,Banning city,17.2
+2020,June,CA,Barstow city,18.2
+2020,June,CA,Bay Point CDP,22
+2020,June,CA,Beale AFB CDP,20
+2020,June,CA,Bear Valley CDP,0
+2020,June,CA,Bear Valley Springs CDP,9.2
+2020,June,CA,Beaumont city,13.6
+2020,June,CA,Beckwourth CDP,0
+2020,June,CA,Belden CDP,0
+2020,June,CA,Bell city,19.6
+2020,June,CA,Bellflower city,21.4
+2020,June,CA,Bell Gardens city,19.2
+2020,June,CA,Belmont city,8.1
+2020,June,CA,Benicia city,11.3
+2020,June,CA,Ben Lomond CDP,6.3
+2020,June,CA,Berkeley city,10
+2020,June,CA,Bermuda Dunes CDP,13.2
+2020,June,CA,Bertsch Oceanview CDP,28.4
+2020,June,CA,Bethel Island CDP,10.3
+2020,June,CA,Beverly Hills city,16.2
+2020,June,CA,Big Bear City CDP,8.6
+2020,June,CA,Big Bear Lake city,5.5
+2020,June,CA,Biggs city,7.2
+2020,June,CA,Big Pine CDP,14.2
+2020,June,CA,Big River CDP,20.3
+2020,June,CA,Biola CDP,36.8
+2020,June,CA,Bishop city,9.5
+2020,June,CA,Bloomington CDP,15.2
+2020,June,CA,Blue Lake city,11.4
+2020,June,CA,Bluewater CDP,22.9
+2020,June,CA,Blythe city,15.3
+2020,June,CA,Bodega Bay CDP,8.4
+2020,June,CA,Bodfish CDP,18.6
+2020,June,CA,Bonadelle Ranchos Madera Ranchos CDP,9.9
+2020,June,CA,Bonita CDP,20.1
+2020,June,CA,Bootjack CDP,20.4
+2020,June,CA,Boron CDP,11.6
+2020,June,CA,Boronda CDP,54.2
+2020,June,CA,Bostonia CDP,24.2
+2020,June,CA,Boulder Creek CDP,15.9
+2020,June,CA,Boyes Hot Springs CDP,7.8
+2020,June,CA,Bradbury city,6.8
+2020,June,CA,Bradley CDP,0
+2020,June,CA,Brawley city,21
+2020,June,CA,Brea city,13.6
+2020,June,CA,Brentwood city,13.6
+2020,June,CA,Bret Harte CDP,28
+2020,June,CA,Brisbane city,11.3
+2020,June,CA,Broadmoor CDP,19.9
+2020,June,CA,Bucks Lake CDP,0
+2020,June,CA,Buellton city,5.1
+2020,June,CA,Buena Park city,16.6
+2020,June,CA,Burbank city,22.7
+2020,June,CA,Burlingame city,9.2
+2020,June,CA,Burney CDP,11.9
+2020,June,CA,Buttonwillow CDP,18.2
+2020,June,CA,Byron CDP,23.3
+2020,June,CA,Bystrom CDP,15.7
+2020,June,CA,Cabazon CDP,12.5
+2020,June,CA,Calabasas city,12.8
+2020,June,CA,Calexico city,40
+2020,June,CA,California City city,31.7
+2020,June,CA,Calimesa city,14.6
+2020,June,CA,Calipatria city,33.4
+2020,June,CA,Calistoga city,16.4
+2020,June,CA,Calwa CDP,25
+2020,June,CA,Camarillo city,11.4
+2020,June,CA,Cambria CDP,14.5
+2020,June,CA,Cameron Park CDP,11.9
+2020,June,CA,Campbell city,9.6
+2020,June,CA,Cantua Creek CDP,13.4
+2020,June,CA,Canyondam CDP,80
+2020,June,CA,Canyon Lake city,7.8
+2020,June,CA,Capitola city,4
+2020,June,CA,Carlsbad city,12.7
+2020,June,CA,Carmel by the Sea city,0.4
+2020,June,CA,Carmel Valley Village CDP,20.8
+2020,June,CA,Carmichael CDP,13.5
+2020,June,CA,Carpinteria city,9.8
+2020,June,CA,Carson city,19.9
+2020,June,CA,Cartago CDP,0
+2020,June,CA,Caruthers CDP,14.1
+2020,June,CA,Casa Conejo CDP,19.1
+2020,June,CA,Casa de Oro Mount Helix CDP,13.1
+2020,June,CA,Castro Valley CDP,12.4
+2020,June,CA,Castroville CDP,25.1
+2020,June,CA,Cathedral City city,18.1
+2020,June,CA,Cayucos CDP,11.3
+2020,June,CA,Ceres city,15.8
+2020,June,CA,Cerritos city,17.1
+2020,June,CA,Challenge Brownsville CDP,0
+2020,June,CA,Channel Islands Beach CDP,30.3
+2020,June,CA,Charter Oak CDP,22.9
+2020,June,CA,Cherryland CDP,22.5
+2020,June,CA,Cherry Valley CDP,9.2
+2020,June,CA,Chester CDP,11.5
+2020,June,CA,Chico city,12.6
+2020,June,CA,Chilcoot Vinton CDP,10
+2020,June,CA,China Lake Acres CDP,15.1
+2020,June,CA,Chinese Camp CDP,0
+2020,June,CA,Chino city,14.3
+2020,June,CA,Chino Hills city,12
+2020,June,CA,Chowchilla city,12.4
+2020,June,CA,Chualar CDP,16
+2020,June,CA,Chula Vista city,15.7
+2020,June,CA,Citrus CDP,14.3
+2020,June,CA,Citrus Heights city,13
+2020,June,CA,Claremont city,13.5
+2020,June,CA,Clayton city,6.5
+2020,June,CA,Clearlake city,25
+2020,June,CA,Clearlake Oaks CDP,19.3
+2020,June,CA,Clio CDP,0
+2020,June,CA,Cloverdale city,6.8
+2020,June,CA,Clovis city,12.1
+2020,June,CA,Clyde CDP,10.2
+2020,June,CA,Coachella city,20.5
+2020,June,CA,Coalinga city,15.3
+2020,June,CA,Cobb CDP,9.8
+2020,June,CA,Colfax city,16.5
+2020,June,CA,Colton city,14.1
+2020,June,CA,Columbia CDP,29.3
+2020,June,CA,Colusa city,15.4
+2020,June,CA,Commerce city,22.8
+2020,June,CA,Compton city,22.2
+2020,June,CA,Concord city,13.4
+2020,June,CA,Concow CDP,24.1
+2020,June,CA,Copperopolis CDP,11.7
+2020,June,CA,Corcoran city,23.6
+2020,June,CA,Corning city,13.6
+2020,June,CA,Corona city,12.7
+2020,June,CA,Coronado city,10.5
+2020,June,CA,Corralitos CDP,11.8
+2020,June,CA,Corte Madera town,12.8
+2020,June,CA,Costa Mesa city,12.4
+2020,June,CA,Cotati city,12.3
+2020,June,CA,Coto de Caza CDP,13
+2020,June,CA,Cottonwood CDP,11
+2020,June,CA,Country Club CDP,24.9
+2020,June,CA,Covelo CDP,14.9
+2020,June,CA,Covina city,19.7
+2020,June,CA,Crescent City city,10.4
+2020,June,CA,Crescent Mills CDP,0
+2020,June,CA,Crestline CDP,8.9
+2020,June,CA,C Road CDP,19
+2020,June,CA,Crockett CDP,18.6
+2020,June,CA,Cromberg CDP,0
+2020,June,CA,Cudahy city,18.5
+2020,June,CA,Culver City city,17.3
+2020,June,CA,Cupertino city,7.3
+2020,June,CA,Cutler CDP,18.1
+2020,June,CA,Cypress city,14.7
+2020,June,CA,Daly City city,16.1
+2020,June,CA,Dana Point city,12
+2020,June,CA,Danville town,10
+2020,June,CA,Darwin CDP,0
+2020,June,CA,Davis city,8.1
+2020,June,CA,Day Valley CDP,12.5
+2020,June,CA,Deer Park CDP,19.8
+2020,June,CA,Del Aire CDP,16.3
+2020,June,CA,Delano city,31.6
+2020,June,CA,Delhi CDP,14.8
+2020,June,CA,Delleker CDP,0
+2020,June,CA,Del Mar city,10.3
+2020,June,CA,Del Monte Forest CDP,16.4
+2020,June,CA,Del Rey CDP,18.1
+2020,June,CA,Del Rey Oaks city,15.6
+2020,June,CA,Denair CDP,13.9
+2020,June,CA,Derby Acres CDP,2.9
+2020,June,CA,Desert Hot Springs city,22.6
+2020,June,CA,Desert View Highlands CDP,28.5
+2020,June,CA,Diablo CDP,0
+2020,June,CA,Diamond Bar city,17.4
+2020,June,CA,Diamond Springs CDP,16.2
+2020,June,CA,Dinuba city,22.5
+2020,June,CA,Discovery Bay CDP,12.5
+2020,June,CA,Dixon city,13.6
+2020,June,CA,Dixon Lane Meadow Creek CDP,12.2
+2020,June,CA,Dollar Point CDP,7.6
+2020,June,CA,Dorrington CDP,13.5
+2020,June,CA,Dos Palos city,12
+2020,June,CA,Downey city,19.4
+2020,June,CA,Duarte city,22.9
+2020,June,CA,Dublin city,10.9
+2020,June,CA,Ducor CDP,15.8
+2020,June,CA,Dunsmuir city,7.8
+2020,June,CA,Durham CDP,5.9
+2020,June,CA,Dustin Acres CDP,8.2
+2020,June,CA,Earlimart CDP,25
+2020,June,CA,East Foothills CDP,6.7
+2020,June,CA,East Hemet CDP,21.7
+2020,June,CA,East Los Angeles CDP,29.3
+2020,June,CA,East Oakdale CDP,12.8
+2020,June,CA,Easton CDP,15.3
+2020,June,CA,East Orosi CDP,44.4
+2020,June,CA,East Palo Alto city,12.2
+2020,June,CA,East Pasadena CDP,8.9
+2020,June,CA,East Porterville CDP,35.8
+2020,June,CA,East Quincy CDP,2
+2020,June,CA,East Richmond Heights CDP,6.5
+2020,June,CA,East San Gabriel CDP,8.3
+2020,June,CA,East Shore CDP,80.4
+2020,June,CA,East Sonora CDP,0
+2020,June,CA,Eastvale City city,13.5
+2020,June,CA,Edwards AFB CDP,19.5
+2020,June,CA,El Cajon city,17.8
+2020,June,CA,El Centro city,24.5
+2020,June,CA,El Cerrito city,13
+2020,June,CA,El Cerrito CDP,9.4
+2020,June,CA,El Dorado Hills CDP,10.4
+2020,June,CA,El Granada CDP,10.1
+2020,June,CA,Elk Grove CDP,12.7
+2020,June,CA,Elkhorn CDP,21
+2020,June,CA,Elmira CDP,11.7
+2020,June,CA,El Monte city,21.7
+2020,June,CA,El Paso de Robles (Paso Robles) city,11.5
+2020,June,CA,El Rio CDP,20.8
+2020,June,CA,El Segundo city,22.4
+2020,June,CA,El Sobrante CDP,16.1
+2020,June,CA,El Verano CDP,5.4
+2020,June,CA,Emeryville city,9.8
+2020,June,CA,Empire CDP,10.4
+2020,June,CA,Encinitas city,11
+2020,June,CA,Escalon city,8.8
+2020,June,CA,Escondido city,13.1
+2020,June,CA,Esparto CDP,10.1
+2020,June,CA,Eureka city,11.8
+2020,June,CA,Exeter city,16.9
+2020,June,CA,Fairfax town,9.2
+2020,June,CA,Fairfield city,13.4
+2020,June,CA,Fair Oaks CDP,9.4
+2020,June,CA,Fairview CDP,6.8
+2020,June,CA,Fallbrook CDP,13
+2020,June,CA,Fall River Mills CDP,0
+2020,June,CA,Farmersville city,20.3
+2020,June,CA,Farmington CDP,0
+2020,June,CA,Fellows CDP,17.6
+2020,June,CA,Felton CDP,17.5
+2020,June,CA,Ferndale city,4.7
+2020,June,CA,Fetters Hot Springs Agua Caliente CDP,5.4
+2020,June,CA,Fillmore city,11
+2020,June,CA,Firebaugh city,23.1
+2020,June,CA,Florence Graham CDP,25
+2020,June,CA,Florin CDP,21.7
+2020,June,CA,Folsom city,9.6
+2020,June,CA,Fontana city,13.9
+2020,June,CA,Foothill Farms CDP,14.2
+2020,June,CA,Ford City CDP,19.3
+2020,June,CA,Foresthill CDP,10
+2020,June,CA,Forest Meadows CDP,19
+2020,June,CA,Forestville CDP,13.3
+2020,June,CA,Fort Bragg city,12.1
+2020,June,CA,Fortuna city,10.2
+2020,June,CA,Foster City city,7.6
+2020,June,CA,Fountain Valley city,14.8
+2020,June,CA,Fowler city,11.1
+2020,June,CA,Frazier Park CDP,18.7
+2020,June,CA,Freedom CDP,18.9
+2020,June,CA,Fremont city,10.5
+2020,June,CA,French Camp CDP,16.9
+2020,June,CA,Fresno city,14.5
+2020,June,CA,Friant CDP,23.6
+2020,June,CA,Fullerton city,15
+2020,June,CA,Furnace Creek CDP,1.9
+2020,June,CA,Galt city,12.1
+2020,June,CA,Gardena city,21.4
+2020,June,CA,Garden Acres CDP,20.9
+2020,June,CA,Garden Grove city,18.7
+2020,June,CA,Georgetown CDP,25.6
+2020,June,CA,Gilroy city,12.6
+2020,June,CA,Glendale city,21.1
+2020,June,CA,Glendora city,16.2
+2020,June,CA,Glen Ellen CDP,0
+2020,June,CA,Golden Hills CDP,8.8
+2020,June,CA,Gold River CDP,14.8
+2020,June,CA,Goleta City,10.2
+2020,June,CA,Gonzales city,3
+2020,June,CA,Goshen CDP,17.4
+2020,June,CA,Graeagle CDP,12.3
+2020,June,CA,Grand Terrace city,13.8
+2020,June,CA,Granite Bay CDP,11.8
+2020,June,CA,Grass Valley city,16
+2020,June,CA,Graton CDP,20.9
+2020,June,CA,Greenfield city,12.4
+2020,June,CA,Greenhorn CDP,20.8
+2020,June,CA,Green Valley CDP,0
+2020,June,CA,Greenville CDP,27.6
+2020,June,CA,Gridley city,13.6
+2020,June,CA,Grover Beach city,14.2
+2020,June,CA,Guadalupe city,9.7
+2020,June,CA,Guerneville CDP,12.4
+2020,June,CA,Gustine city,16.2
+2020,June,CA,Hacienda Heights CDP,16
+2020,June,CA,Half Moon Bay city,8.5
+2020,June,CA,Hamilton Branch CDP,23
+2020,June,CA,Hamilton City CDP,13.2
+2020,June,CA,Hanford city,13.4
+2020,June,CA,Hawaiian Gardens city,20.5
+2020,June,CA,Hawthorne city,22.8
+2020,June,CA,Hayfork CDP,2.6
+2020,June,CA,Hayward city,15.8
+2020,June,CA,Healdsburg city,10.6
+2020,June,CA,Heber CDP,28.2
+2020,June,CA,Hemet city,17.7
+2020,June,CA,Hercules city,13.5
+2020,June,CA,Hermosa Beach city,10.2
+2020,June,CA,Hesperia city,15.3
+2020,June,CA,Hidden Hills city,16.4
+2020,June,CA,Hidden Valley Lake CDP,4.7
+2020,June,CA,Highgrove CDP,21.5
+2020,June,CA,Highland city,14.4
+2020,June,CA,Hillsborough town,11.2
+2020,June,CA,Hilmar Irwin CDP,5.5
+2020,June,CA,Hollister city,14.9
+2020,June,CA,Holtville city,29.7
+2020,June,CA,Home Garden CDP,22.5
+2020,June,CA,Home Gardens CDP,12.7
+2020,June,CA,Homeland CDP,15.8
+2020,June,CA,Hughson city,11.6
+2020,June,CA,Huntington Beach city,13.3
+2020,June,CA,Huntington Park city,17.5
+2020,June,CA,Huron city,20.5
+2020,June,CA,Hydesville CDP,1.6
+2020,June,CA,Idyllwild Pine Cove CDP,9.1
+2020,June,CA,Imperial city,24.4
+2020,June,CA,Imperial Beach city,18
+2020,June,CA,Independence CDP,6.9
+2020,June,CA,Indian Falls CDP,0
+2020,June,CA,Indian Wells city,12.4
+2020,June,CA,Indio city,17.8
+2020,June,CA,Industry city,21.3
+2020,June,CA,Inglewood city,24.2
+2020,June,CA,Interlaken CDP,13.9
+2020,June,CA,Inverness CDP,4.4
+2020,June,CA,Inyokern CDP,0
+2020,June,CA,Ione city,12.2
+2020,June,CA,Iron Horse CDP,0
+2020,June,CA,Irvine city,11.3
+2020,June,CA,Irwindale city,27.1
+2020,June,CA,Isla Vista CDP,24
+2020,June,CA,Isleton city,12.9
+2020,June,CA,Ivanhoe CDP,18.9
+2020,June,CA,Jackson city,10.6
+2020,June,CA,Jamestown CDP,22.1
+2020,June,CA,Johannesburg CDP,0
+2020,June,CA,Johnsville CDP,0
+2020,June,CA,Joshua Tree CDP,21.1
+2020,June,CA,Jurupa Valley city,12.9
+2020,June,CA,Keddie CDP,62.5
+2020,June,CA,Keeler CDP,0
+2020,June,CA,Keene CDP,18.5
+2020,June,CA,Kelseyville CDP,9.7
+2020,June,CA,Kennedy CDP,24
+2020,June,CA,Kensington CDP,8.6
+2020,June,CA,Kerman city,12.5
+2020,June,CA,Kernville CDP,0
+2020,June,CA,Kettleman City CDP,20.4
+2020,June,CA,Keyes CDP,15.5
+2020,June,CA,King City city,8.2
+2020,June,CA,Kings Beach CDP,4.3
+2020,June,CA,Kingsburg city,10.2
+2020,June,CA,Kirkwood CDP,9.2
+2020,June,CA,Klamath CDP,19.6
+2020,June,CA,Knightsen CDP,7.7
+2020,June,CA,La Canada Flintridge city,9.9
+2020,June,CA,La Crescenta Montrose CDP,14.6
+2020,June,CA,Ladera Heights CDP,23.2
+2020,June,CA,Lafayette city,8.5
+2020,June,CA,Laguna Beach city,11
+2020,June,CA,Laguna Hills city,11.5
+2020,June,CA,Laguna Niguel city,11.9
+2020,June,CA,Laguna Woods city,9.4
+2020,June,CA,La Habra city,13.9
+2020,June,CA,La Habra Heights city,16.4
+2020,June,CA,Lake Almanor Country Club CDP,0
+2020,June,CA,Lake Almanor Peninsula CDP,0
+2020,June,CA,Lake Almanor West CDP,36.7
+2020,June,CA,Lake Arrowhead CDP,14.5
+2020,June,CA,Lake Elsinore city,14.9
+2020,June,CA,Lake Forest city,10.7
+2020,June,CA,Lake Isabella CDP,23.4
+2020,June,CA,Lakeland Village CDP,21.4
+2020,June,CA,Lake Los Angeles CDP,32.7
+2020,June,CA,Lake Nacimiento CDP,9.9
+2020,June,CA,Lake of the Pines CDP,18.4
+2020,June,CA,Lake of the Woods CDP,17.2
+2020,June,CA,Lakeport city,8
+2020,June,CA,Lakeside CDP,17.7
+2020,June,CA,Lakeview CDP,15.7
+2020,June,CA,Lake Wildwood CDP,3.4
+2020,June,CA,Lakewood city,19
+2020,June,CA,La Mesa city,14.2
+2020,June,CA,La Mirada city,18.8
+2020,June,CA,Lamont CDP,16.1
+2020,June,CA,Lanare CDP,0
+2020,June,CA,Lancaster city,19.9
+2020,June,CA,La Palma city,13.4
+2020,June,CA,La Porte CDP,0
+2020,June,CA,La Puente city,19.8
+2020,June,CA,La Quinta city,16.3
+2020,June,CA,La Riviera CDP,11.8
+2020,June,CA,Larkspur city,8
+2020,June,CA,Las Flores CDP,4.7
+2020,June,CA,Las Lomas CDP,17.6
+2020,June,CA,Lathrop city,12
+2020,June,CA,Laton CDP,17.1
+2020,June,CA,La Verne city,16
+2020,June,CA,Lawndale city,23
+2020,June,CA,Laytonville CDP,27.6
+2020,June,CA,Lebec CDP,28.1
+2020,June,CA,Le Grand CDP,20.1
+2020,June,CA,Lemon Cove CDP,5.8
+2020,June,CA,Lemon Grove city,17
+2020,June,CA,Lemoore city,12.6
+2020,June,CA,Lemoore Station CDP,11.1
+2020,June,CA,Lennox CDP,20.3
+2020,June,CA,Lenwood CDP,3.9
+2020,June,CA,Lewiston CDP,9.4
+2020,June,CA,Lincoln city,11.4
+2020,June,CA,Lincoln Village CDP,14.3
+2020,June,CA,Linda CDP,19.2
+2020,June,CA,Linden CDP,6.4
+2020,June,CA,Lindsay city,23.1
+2020,June,CA,Little Grass Valley CDP,0
+2020,June,CA,Littlerock CDP,35.5
+2020,June,CA,Live Oak CDP,9
+2020,June,CA,Live Oak city,13.2
+2020,June,CA,Livermore city,11.2
+2020,June,CA,Livingston city,8.1
+2020,June,CA,Lockeford CDP,17.1
+2020,June,CA,Lodi city,13.3
+2020,June,CA,Loma Linda city,9.2
+2020,June,CA,Loma Rica CDP,5.1
+2020,June,CA,Lomita city,17.8
+2020,June,CA,Lompoc city,15
+2020,June,CA,London CDP,24.3
+2020,June,CA,Lone Pine CDP,11.8
+2020,June,CA,Long Beach city,19.6
+2020,June,CA,Loomis town,13.1
+2020,June,CA,Los Alamitos city,14.2
+2020,June,CA,Los Alamos CDP,11.8
+2020,June,CA,Los Altos city,5.9
+2020,June,CA,Los Angeles city,20
+2020,June,CA,Los Banos city,20
+2020,June,CA,Los Gatos town,8.6
+2020,June,CA,Los Molinos CDP,11.6
+2020,June,CA,Lost Hills CDP,6.7
+2020,June,CA,Lower Lake CDP,12.9
+2020,June,CA,Loyalton city,11.7
+2020,June,CA,Lucerne CDP,8
+2020,June,CA,Lynwood city,20.8
+2020,June,CA,McCloud CDP,19.9
+2020,June,CA,McFarland city,21.6
+2020,June,CA,McKinleyville CDP,8.7
+2020,June,CA,McKittrick CDP,0
+2020,June,CA,Madera city,13.5
+2020,June,CA,Madera Acres CDP,10
+2020,June,CA,Magalia CDP,9
+2020,June,CA,Malibu city,13
+2020,June,CA,Mammoth Lakes town,2.7
+2020,June,CA,Manhattan Beach city,11.2
+2020,June,CA,Manteca city,15
+2020,June,CA,Manton CDP,11.2
+2020,June,CA,March AFB CDP,4.6
+2020,June,CA,Maricopa city,23
+2020,June,CA,Marina city,17.5
+2020,June,CA,Marina del Rey CDP,12.7
+2020,June,CA,Mariposa CDP,8
+2020,June,CA,Markleeville CDP,0
+2020,June,CA,Martinez city,11.9
+2020,June,CA,Marysville city,13
+2020,June,CA,Mayflower Village CDP,13.5
+2020,June,CA,Maywood city,16.8
+2020,June,CA,Meadow Valley CDP,38.2
+2020,June,CA,Meadow Vista CDP,7.4
+2020,June,CA,Mecca CDP,15.9
+2020,June,CA,Meiners Oaks CDP,9.3
+2020,June,CA,Mendocino CDP,0
+2020,June,CA,Mendota city,30.6
+2020,June,CA,Menifee City,15.3
+2020,June,CA,Menlo Park city,6
+2020,June,CA,Mentone CDP,12
+2020,June,CA,Merced city,15.7
+2020,June,CA,Mesa CDP,11.7
+2020,June,CA,Mesa Vista CDP,41.1
+2020,June,CA,Mettler CDP,31.6
+2020,June,CA,Middletown CDP,17.8
+2020,June,CA,Millbrae city,10.6
+2020,June,CA,Mill Valley city,6.7
+2020,June,CA,Milpitas city,12.2
+2020,June,CA,Mineral CDP,19.4
+2020,June,CA,Mira Monte CDP,14.7
+2020,June,CA,Mission Canyon CDP,3.3
+2020,June,CA,Mission Hills CDP,20.4
+2020,June,CA,Mission Viejo city,12.3
+2020,June,CA,Mi Wuk Village CDP,27.7
+2020,June,CA,Modesto city,15.6
+2020,June,CA,Mohawk Vista CDP,0
+2020,June,CA,Mojave CDP,35.1
+2020,June,CA,Mokelumne Hill CDP,27.4
+2020,June,CA,Mono Vista CDP,2.1
+2020,June,CA,Monrovia city,16.7
+2020,June,CA,Montclair city,13.6
+2020,June,CA,Montebello city,20.8
+2020,June,CA,Montecito CDP,16.7
+2020,June,CA,Monterey city,15.9
+2020,June,CA,Monterey Park city,25.2
+2020,June,CA,Monte Rio CDP,38.1
+2020,June,CA,Moorpark city,11.7
+2020,June,CA,Morada CDP,0
+2020,June,CA,Moraga town,8.6
+2020,June,CA,Moreno Valley city,14.9
+2020,June,CA,Morgan Hill city,11.1
+2020,June,CA,Morongo Valley CDP,12.8
+2020,June,CA,Morro Bay city,17.3
+2020,June,CA,Moss Landing CDP,0
+2020,June,CA,Mountain Mesa CDP,15.7
+2020,June,CA,Mountain Ranch CDP,18.4
+2020,June,CA,Mountain View CDP,24.2
+2020,June,CA,Mountain View city,5.9
+2020,June,CA,Mountain View Acres CDP,21.5
+2020,June,CA,Mount Shasta city,3.3
+2020,June,CA,Murphys CDP,11.9
+2020,June,CA,Murrieta city,14
+2020,June,CA,Muscoy CDP,26.5
+2020,June,CA,Napa city,13.4
+2020,June,CA,National City city,18.4
+2020,June,CA,Needles city,9.8
+2020,June,CA,Nevada City city,11.1
+2020,June,CA,Newark city,12.8
+2020,June,CA,Newman city,19.1
+2020,June,CA,Newport Beach city,10.4
+2020,June,CA,Nice CDP,9.2
+2020,June,CA,Nipomo CDP,16.2
+2020,June,CA,Norco city,12.3
+2020,June,CA,North Auburn CDP,9.2
+2020,June,CA,North Edwards CDP,25.2
+2020,June,CA,North El Monte CDP,10.8
+2020,June,CA,North Fair Oaks CDP,8
+2020,June,CA,North Highlands CDP,11.5
+2020,June,CA,North Lakeport CDP,5.6
+2020,June,CA,Norwalk city,20.4
+2020,June,CA,Novato city,10.5
+2020,June,CA,Nuevo CDP,14.1
+2020,June,CA,Oakdale city,18.2
+2020,June,CA,Oakhurst CDP,13
+2020,June,CA,Oakland city,15.7
+2020,June,CA,Oakley city,14.6
+2020,June,CA,Oak Park CDP,14.6
+2020,June,CA,Oak View CDP,13
+2020,June,CA,Occidental CDP,0
+2020,June,CA,Oceano CDP,14.9
+2020,June,CA,Oceanside city,14.9
+2020,June,CA,Oildale CDP,24.5
+2020,June,CA,Ojai city,9.9
+2020,June,CA,Olancha CDP,17.5
+2020,June,CA,Olivehurst CDP,18.6
+2020,June,CA,Ontario city,13.7
+2020,June,CA,Onyx CDP,0
+2020,June,CA,Orange city,12.6
+2020,June,CA,Orange Cove city,21.4
+2020,June,CA,Orangevale CDP,9.8
+2020,June,CA,Orcutt CDP,12.4
+2020,June,CA,Orinda city,8.1
+2020,June,CA,Orland city,13.2
+2020,June,CA,Oroville city,12.7
+2020,June,CA,Oroville East CDP,9.5
+2020,June,CA,Oxnard city,12.7
+2020,June,CA,Pacheco CDP,21.7
+2020,June,CA,Pacifica city,11.5
+2020,June,CA,Pacific Grove city,11.9
+2020,June,CA,Pajaro CDP,44.4
+2020,June,CA,Palermo CDP,22.5
+2020,June,CA,Palmdale city,21
+2020,June,CA,Palm Desert city,17.2
+2020,June,CA,Palm Springs city,16.8
+2020,June,CA,Palo Alto city,5.7
+2020,June,CA,Palos Verdes Estates city,10.3
+2020,June,CA,Paradise town,4.3
+2020,June,CA,Paramount city,20.3
+2020,June,CA,Parksdale CDP,14.3
+2020,June,CA,Parkwood CDP,18.3
+2020,June,CA,Parlier city,15.6
+2020,June,CA,Pasadena city,16.2
+2020,June,CA,Patterson city,13.9
+2020,June,CA,Paxton CDP,0
+2020,June,CA,Penn Valley CDP,20.1
+2020,June,CA,Perris city,15.4
+2020,June,CA,Petaluma city,10.9
+2020,June,CA,Pico Rivera city,19.7
+2020,June,CA,Piedmont city,8.2
+2020,June,CA,Pine Mountain Club CDP,12.5
+2020,June,CA,Pinole city,13.2
+2020,June,CA,Piru CDP,19
+2020,June,CA,Pismo Beach city,6.7
+2020,June,CA,Pittsburg city,16.8
+2020,June,CA,Pixley CDP,30
+2020,June,CA,Placentia city,13.5
+2020,June,CA,Placerville city,10.1
+2020,June,CA,Planada CDP,19.3
+2020,June,CA,Pleasant Hill city,11.7
+2020,June,CA,Pleasanton city,9.7
+2020,June,CA,Plumas Eureka CDP,16.8
+2020,June,CA,Plymouth city,9.9
+2020,June,CA,Point Arena city,10
+2020,June,CA,Point Reyes Station CDP,0
+2020,June,CA,Pollock Pines CDP,12.5
+2020,June,CA,Pomona city,19.1
+2020,June,CA,Poplar Cotton Center CDP,46.1
+2020,June,CA,Port Costa CDP,0
+2020,June,CA,Porterville city,19.6
+2020,June,CA,Port Hueneme city,12.4
+2020,June,CA,Portola city,4
+2020,June,CA,Poway city,9.8
+2020,June,CA,Prattville CDP,0
+2020,June,CA,Prunedale CDP,16.1
+2020,June,CA,Quartz Hill CDP,19.8
+2020,June,CA,Quincy CDP,6.5
+2020,June,CA,Raisin City CDP,15.6
+2020,June,CA,Ramona CDP,12
+2020,June,CA,Rancho Calaveras CDP,9.7
+2020,June,CA,Rancho Cordova City,13.3
+2020,June,CA,Rancho Cucamonga city,12.2
+2020,June,CA,Rancho Mirage city,11.4
+2020,June,CA,Rancho Murieta CDP,6.4
+2020,June,CA,Rancho Palos Verdes city,13.2
+2020,June,CA,Rancho Santa Margarita city,11.2
+2020,June,CA,Rancho Tehama Reserve CDP,18.3
+2020,June,CA,Randsburg CDP,0
+2020,June,CA,Red Bluff city,13
+2020,June,CA,Redding city,11.6
+2020,June,CA,Redlands city,11
+2020,June,CA,Redondo Beach city,15.2
+2020,June,CA,Redway CDP,12.5
+2020,June,CA,Redwood City city,8.1
+2020,June,CA,Reedley city,17.9
+2020,June,CA,Rialto city,14.9
+2020,June,CA,Richgrove CDP,51.1
+2020,June,CA,Richmond city,16.3
+2020,June,CA,Ridgecrest city,7.4
+2020,June,CA,Ridgemark CDP,8.3
+2020,June,CA,Rio Dell city,15.7
+2020,June,CA,Rio del Mar CDP,9.6
+2020,June,CA,Rio Linda CDP,10.8
+2020,June,CA,Rio Vista city,16.6
+2020,June,CA,Ripon city,9.5
+2020,June,CA,Riverbank city,12.1
+2020,June,CA,Riverdale CDP,6.6
+2020,June,CA,Riverside city,13.4
+2020,June,CA,Rocklin city,10.9
+2020,June,CA,Rodeo CDP,15.2
+2020,June,CA,Rohnert Park city,13.1
+2020,June,CA,Rolling Hills city,17.9
+2020,June,CA,Rolling Hills Estates city,15.3
+2020,June,CA,Rollingwood CDP,18
+2020,June,CA,Romoland CDP,14.3
+2020,June,CA,Rosamond CDP,20.5
+2020,June,CA,Rosedale CDP,10.7
+2020,June,CA,Rosemead city,27.4
+2020,June,CA,Rosemont CDP,13.6
+2020,June,CA,Roseville city,11.5
+2020,June,CA,Rossmoor CDP,11.6
+2020,June,CA,Round Valley CDP,0
+2020,June,CA,Rowland Heights CDP,14.6
+2020,June,CA,Running Springs CDP,18.4
+2020,June,CA,Sacramento city,14
+2020,June,CA,St. Helena city,6.1
+2020,June,CA,Salida CDP,13.7
+2020,June,CA,Salinas city,14.9
+2020,June,CA,San Andreas CDP,4.8
+2020,June,CA,San Anselmo town,13.7
+2020,June,CA,San Antonio Heights CDP,3.7
+2020,June,CA,San Ardo CDP,4
+2020,June,CA,San Bernardino city,16.4
+2020,June,CA,San Bruno city,13.1
+2020,June,CA,San Buenaventura (Ventura) city,12.7
+2020,June,CA,San Carlos city,7.5
+2020,June,CA,San Clemente city,12.1
+2020,June,CA,Sand City city,9.9
+2020,June,CA,San Diego city,13.7
+2020,June,CA,San Dimas city,16.3
+2020,June,CA,San Fernando city,18.7
+2020,June,CA,San Francisco city,12.5
+2020,June,CA,San Gabriel city,23
+2020,June,CA,Sanger city,15.4
+2020,June,CA,San Jacinto city,16.3
+2020,June,CA,San Joaquin city,22.5
+2020,June,CA,San Jose city,12.4
+2020,June,CA,San Juan Bautista city,8
+2020,June,CA,San Juan Capistrano city,11.7
+2020,June,CA,San Leandro city,16.9
+2020,June,CA,San Lorenzo CDP,14
+2020,June,CA,San Lucas CDP,24.2
+2020,June,CA,San Luis Obispo city,12.1
+2020,June,CA,San Marcos city,12.7
+2020,June,CA,San Marino city,11.1
+2020,June,CA,San Martin CDP,9.2
+2020,June,CA,San Mateo city,9.5
+2020,June,CA,San Miguel CDP,22.5
+2020,June,CA,San Pablo city,16.9
+2020,June,CA,San Rafael city,10.3
+2020,June,CA,San Ramon city,10.8
+2020,June,CA,Santa Ana city,13.7
+2020,June,CA,Santa Barbara city,11.5
+2020,June,CA,Santa Clara city,9
+2020,June,CA,Santa Clarita city,18.6
+2020,June,CA,Santa Cruz city,12.7
+2020,June,CA,Santa Fe Springs city,12.4
+2020,June,CA,Santa Maria city,12
+2020,June,CA,Santa Monica city,16.9
+2020,June,CA,Santa Paula city,12.9
+2020,June,CA,Santa Rosa city,12.2
+2020,June,CA,Santa Ynez CDP,12.3
+2020,June,CA,Santee city,12.1
+2020,June,CA,Saratoga city,6.8
+2020,June,CA,Sausalito city,10.2
+2020,June,CA,Scotts Valley city,7.8
+2020,June,CA,Seal Beach city,12.5
+2020,June,CA,Searles Valley CDP,23.7
+2020,June,CA,Seaside city,17.7
+2020,June,CA,Sebastopol city,19.1
+2020,June,CA,Selma city,11
+2020,June,CA,Shafter city,23.6
+2020,June,CA,Shandon CDP,13.2
+2020,June,CA,Shasta Lake city,13.6
+2020,June,CA,Shaver Lake CDP,1.9
+2020,June,CA,Shingle Springs CDP,3.3
+2020,June,CA,Shingletown CDP,14.8
+2020,June,CA,Shoshone CDP,0
+2020,June,CA,Sierra Madre city,19.7
+2020,June,CA,Signal Hill city,18.4
+2020,June,CA,Simi Valley city,13.2
+2020,June,CA,Solana Beach city,7.8
+2020,June,CA,Soledad city,14.7
+2020,June,CA,Solvang city,6.9
+2020,June,CA,Sonoma city,9.5
+2020,June,CA,Sonora city,13.9
+2020,June,CA,Soquel CDP,10.5
+2020,June,CA,Soulsbyville CDP,13.4
+2020,June,CA,South Dos Palos CDP,29.7
+2020,June,CA,South El Monte city,19.1
+2020,June,CA,South Gate city,20
+2020,June,CA,South Lake Tahoe city,14.3
+2020,June,CA,South Oroville CDP,11.7
+2020,June,CA,South Pasadena city,15.8
+2020,June,CA,South San Francisco city,14.4
+2020,June,CA,South San Gabriel CDP,20.7
+2020,June,CA,South San Jose Hills CDP,25.7
+2020,June,CA,South Taft CDP,35.8
+2020,June,CA,South Whittier CDP,17
+2020,June,CA,Spreckels CDP,0
+2020,June,CA,Spring Garden CDP,0
+2020,June,CA,Spring Valley CDP,18.7
+2020,June,CA,Springville CDP,8.8
+2020,June,CA,Squaw Valley CDP,12.2
+2020,June,CA,Squirrel Mountain Valley CDP,37.6
+2020,June,CA,Stallion Springs CDP,26.8
+2020,June,CA,Stanton city,16.5
+2020,June,CA,Stockton city,17.3
+2020,June,CA,Stratford CDP,18.5
+2020,June,CA,Strathmore CDP,31.5
+2020,June,CA,Suisun City city,14
+2020,June,CA,Summerland CDP,11.7
+2020,June,CA,Sunnyside Tahoe City CDP,16.6
+2020,June,CA,Sunnyvale city,7.7
+2020,June,CA,Sunol CDP,13
+2020,June,CA,Susanville city,9.1
+2020,June,CA,Sutter CDP,11.4
+2020,June,CA,Sutter Creek city,6.8
+2020,June,CA,Taft city,11.5
+2020,June,CA,Taft Heights CDP,16.5
+2020,June,CA,Taft Mosswood CDP,16.8
+2020,June,CA,Tahoe Vista CDP,2.4
+2020,June,CA,Tamalpais Homestead Valley CDP,12.7
+2020,June,CA,Tara Hills CDP,13.9
+2020,June,CA,Taylorsville CDP,65.3
+2020,June,CA,Tecopa CDP,61.4
+2020,June,CA,Tehachapi city,12
+2020,June,CA,Tehama city,11.9
+2020,June,CA,Temecula city,14
+2020,June,CA,Temple City city,21.6
+2020,June,CA,Templeton CDP,5.6
+2020,June,CA,Terra Bella CDP,38
+2020,June,CA,Thermalito CDP,18.9
+2020,June,CA,Thousand Oaks city,12.3
+2020,June,CA,Thousand Palms CDP,10.5
+2020,June,CA,Three Rivers CDP,10.7
+2020,June,CA,Tipton CDP,29
+2020,June,CA,Tobin CDP,0
+2020,June,CA,Tomales CDP,0
+2020,June,CA,Toro Canyon CDP,4.1
+2020,June,CA,Torrance city,16.5
+2020,June,CA,Tracy city,15.7
+2020,June,CA,Tranquillity CDP,0
+2020,June,CA,Traver CDP,9.3
+2020,June,CA,Trinidad city,7.8
+2020,June,CA,Truckee town,10
+2020,June,CA,Tulare city,14.6
+2020,June,CA,Tuolumne City CDP,0
+2020,June,CA,Tupman CDP,35.2
+2020,June,CA,Turlock city,13
+2020,June,CA,Tustin city,12.7
+2020,June,CA,Twain CDP,0
+2020,June,CA,Twain Harte CDP,10.1
+2020,June,CA,Twentynine Palms city,12.3
+2020,June,CA,Twin Lakes CDP,10.7
+2020,June,CA,Ukiah city,15.3
+2020,June,CA,Union City city,13.4
+2020,June,CA,Upland city,13.4
+2020,June,CA,Upper Lake CDP,14.5
+2020,June,CA,Vacaville city,12
+2020,June,CA,Valinda CDP,20.4
+2020,June,CA,Vallejo city,16
+2020,June,CA,Valle Vista CDP,15.8
+2020,June,CA,Valley Acres CDP,34.9
+2020,June,CA,Valley Center CDP,11.7
+2020,June,CA,Valley Ranch CDP,0
+2020,June,CA,Valley Springs CDP,7.4
+2020,June,CA,Val Verde CDP,30.4
+2020,June,CA,Vandenberg AFB CDP,13.8
+2020,June,CA,Vandenberg Village CDP,8.8
+2020,June,CA,Vernon city,11.4
+2020,June,CA,Victorville city,16.5
+2020,June,CA,View Park Windsor Hills CDP,31.2
+2020,June,CA,Villa Park city,14.7
+2020,June,CA,Vine Hill CDP,8
+2020,June,CA,Vineyard CDP,11.6
+2020,June,CA,Visalia city,14.5
+2020,June,CA,Vista city,14.7
+2020,June,CA,Walnut city,16.4
+2020,June,CA,Walnut Creek city,10.5
+2020,June,CA,Walnut Grove CDP,25.3
+2020,June,CA,Walnut Park CDP,20.2
+2020,June,CA,Wasco city,20.8
+2020,June,CA,Waterford city,18.6
+2020,June,CA,Watsonville city,14.9
+2020,June,CA,Weaverville CDP,12.4
+2020,June,CA,Weed city,15.5
+2020,June,CA,Weedpatch CDP,18.9
+2020,June,CA,Weldon CDP,23.4
+2020,June,CA,West Athens CDP,24.9
+2020,June,CA,West Bishop CDP,7.6
+2020,June,CA,West Carson CDP,16.7
+2020,June,CA,West Covina city,20.2
+2020,June,CA,West Hollywood city,22
+2020,June,CA,Westlake Village city,11.2
+2020,June,CA,West Menlo Park CDP,13.5
+2020,June,CA,Westminster city,18.9
+2020,June,CA,West Modesto CDP,32.7
+2020,June,CA,Westmont CDP,26.2
+2020,June,CA,Westmorland city,24.1
+2020,June,CA,West Point CDP,0
+2020,June,CA,West Puente Valley CDP,27.4
+2020,June,CA,West Sacramento city,12.8
+2020,June,CA,West Whittier Los Nietos CDP,13.8
+2020,June,CA,Westwood CDP,2.9
+2020,June,CA,Wheatland city,15.7
+2020,June,CA,Whitehawk CDP,0
+2020,June,CA,Whittier city,18.5
+2020,June,CA,Wildomar city,13.6
+2020,June,CA,Wilkerson CDP,12.7
+2020,June,CA,Williams city,12.3
+2020,June,CA,Willits city,9
+2020,June,CA,Willowbrook CDP,26.8
+2020,June,CA,Willow Creek CDP,0
+2020,June,CA,Willows city,15.3
+2020,June,CA,Wilton CDP,7.6
+2020,June,CA,Winchester CDP,16.7
+2020,June,CA,Windsor town,10.9
+2020,June,CA,Winters city,11.1
+2020,June,CA,Winton CDP,24.9
+2020,June,CA,Wofford Heights CDP,17.7
+2020,June,CA,Woodcrest CDP,7.9
+2020,June,CA,Woodlake city,15.4
+2020,June,CA,Woodland city,11.2
+2020,June,CA,Woodville CDP,23.9
+2020,June,CA,Wrightwood CDP,10
+2020,June,CA,Yorba Linda city,11.2
+2020,June,CA,Yosemite Lakes CDP,14
+2020,June,CA,Yosemite Valley CDP,6.5
+2020,June,CA,Yountville town,15
+2020,June,CA,Yreka city,13.1
+2020,June,CA,Yuba City city,15.6
+2020,June,CA,Yucaipa city,11.7
+2020,June,CA,Yucca Valley town,18.4
+2020,June,CA,Alameda County,12
+2020,June,CA,Alpine County,14.1
+2020,June,CA,Amador County,11.9
+2020,June,CA,Butte County,11.1
+2020,June,CA,Calaveras County,9.6
+2020,June,CA,Colusa County,15.3
+2020,June,CA,Contra Costa County,12
+2020,June,CA,Del Norte County,11.3
+2020,June,CA,El Dorado County,10.3
+2020,June,CA,Fresno County,13.5
+2020,June,CA,Glenn County,10.8
+2020,June,CA,Humboldt County,10.2
+2020,June,CA,Imperial County,26.8
+2020,June,CA,Inyo County,9.4
+2020,June,CA,Kern County,16.5
+2020,June,CA,Kings County,13.1
+2020,June,CA,Lake County,11.6
+2020,June,CA,Lassen County,8.6
+2020,June,CA,Los Angeles County,18.2
+2020,June,CA,Los Angeles County,17.5
+2020,June,CA,Madera County,13
+2020,June,CA,Marin County,8.8
+2020,June,CA,Mariposa County,10.8
+2020,June,CA,Mendocino County,10.9
+2020,June,CA,Merced County,14.5
+2020,June,CA,Modoc County,8.8
+2020,June,CA,Mono County,16.6
+2020,June,CA,Monterey County,12.1
+2020,June,CA,Napa County,10.4
+2020,June,CA,Nevada County,10.6
+2020,June,CA,Orange County,12.3
+2020,June,CA,Placer County,9.8
+2020,June,CA,Plumas County,11.4
+2020,June,CA,Riverside County,13.7
+2020,June,CA,Sacramento County,12.5
+2020,June,CA,San Benito County,11.9
+2020,June,CA,San Bernardino County,13.1
+2020,June,CA,San Diego County,12.3
+2020,June,CA,San Francisco County,10.9
+2020,June,CA,San Joaquin County,14.8
+2020,June,CA,San Luis Obispo County,9.9
+2020,June,CA,San Mateo County,9.2
+2020,June,CA,Santa Barbara County,10
+2020,June,CA,Santa Clara County,9.3
+2020,June,CA,Santa Cruz County,11.2
+2020,June,CA,Shasta County,10.5
+2020,June,CA,Sierra County,9.3
+2020,June,CA,Siskiyou County,11.2
+2020,June,CA,Solano County,12.4
+2020,June,CA,Sonoma County,9.8
+2020,June,CA,Stanislaus County,13.6
+2020,June,CA,Sutter County,13.5
+2020,June,CA,Tehama County,11
+2020,June,CA,Trinity County,8.6
+2020,June,CA,Tulare County,16.2
+2020,June,CA,Tuolumne County,12.6
+2020,June,CA,Ventura County,11.3
+2020,June,CA,Yolo County,9.5
+2020,June,CA,Yuba County,13.5
+2020,June,CA,Anaheim-Santa Ana-Irvine MD,12.3
+2020,June,CA,Bakersfield MSA,16.5
+2020,June,CA,Chico MSA,11.1
+2020,June,CA,El Centro MSA,26.8
+2020,June,CA,Fresno MSA,13.5
+2020,June,CA,Hanford-Corcoran MSA,13.1
+2020,June,CA,Los Angeles-Long Beach-Glendale MD,18.2
+2020,June,CA,Los Angeles-Long Beach-Glendale MD,17.5
+2020,June,CA,Madera MSA,13
+2020,June,CA,Merced MSA,14.5
+2020,June,CA,Modesto MSA,13.6
+2020,June,CA,Napa MSA,10.4
+2020,June,CA,Oakland-Hayward-Berkeley MD,12
+2020,June,CA,Oxnard-Thousand Oaks-Ventura MSA,11.3
+2020,June,CA,Redding MSA,10.5
+2020,June,CA,Riverside-San Bernardino-Ontario MSA,13.4
+2020,June,CA,Sacramento--Roseville--Arden-Arcade MSA,11.5
+2020,June,CA,Salinas MSA,12.1
+2020,June,CA,San Diego-Carlsbad MSA,12.3
+2020,June,CA,San Francisco-Redwood City-South San Francisco MD,10.2
+2020,June,CA,San Jose-Sunnyvale-Santa Clara MSA,9.4
+2020,June,CA,San Luis Obispo-Paso Robles-Arroyo Grande MSA,9.9
+2020,June,CA,San Rafael MD,8.8
+2020,June,CA,Santa Cruz-Watsonville MSA,11.2
+2020,June,CA,Santa Maria-Santa Barbara MSA,10
+2020,June,CA,Santa Rosa MSA,9.8
+2020,June,CA,Stockton-Lodi MSA,14.8
+2020,June,CA,Vallejo-Fairfield MSA,12.4
+2020,June,CA,Visalia-Porterville MSA,16.2
+2020,June,CA,Yuba City MSA,13.5
+2020,June,CA,Acton CDP,14.1
+2020,June,CA,Adelanto city,20.6
+2020,June,CA,Agoura Hills city,14.8
+2020,June,CA,Alameda city,11.9
+2020,June,CA,Alamo CDP,7.2
+2020,June,CA,Albany city,10.2
+2020,June,CA,Alhambra city,19.9
+2020,June,CA,Aliso Viejo city,10.1
+2020,June,CA,Alondra Park CDP,24
+2020,June,CA,Alpaugh CDP,32.9
+2020,June,CA,Alpine Village CDP,0
+2020,June,CA,Altadena CDP,14
+2020,June,CA,Alta Sierra CDP,5.6
+2020,June,CA,Alturas city,10
+2020,June,CA,Amador City city,14.9
+2020,June,CA,American Canyon city,13.4
+2020,June,CA,Anaheim city,15
+2020,June,CA,Anderson city,9.7
+2020,June,CA,Angels City city,0.3
+2020,June,CA,Angwin CDP,9.6
+2020,June,CA,Antioch city,15.8
+2020,June,CA,Apple Valley town,12.6
+2020,June,CA,Aptos CDP,4
+2020,June,CA,Aptos Hills Larkin Valley CDP,17.2
+2020,June,CA,Arbuckle CDP,19.4
+2020,June,CA,Arcadia city,15
+2020,June,CA,Arcata city,15.2
+2020,June,CA,Arden Arcade CDP,15.8
+2020,June,CA,Armona CDP,16.8
+2020,June,CA,Arnold CDP,12.2
+2020,June,CA,Aromas CDP (Monterey Co),9.1
+2020,June,CA,Arroyo Grande city,8.7
+2020,June,CA,Artesia city,15.2
+2020,June,CA,Arvin city,15.7
+2020,June,CA,Ashland CDP,18.1
+2020,June,CA,Atascadero city,9.3
+2020,June,CA,Atherton town,10.1
+2020,June,CA,Atwater city,15.1
+2020,June,CA,Auberry CDP,8.3
+2020,June,CA,Auburn city,10.6
+2020,June,CA,August CDP,26.7
+2020,June,CA,Avalon city,1.9
+2020,June,CA,Avenal city,20.1
+2020,June,CA,Avery CDP,19.5
+2020,June,CA,Avocado Heights CDP,21.7
+2020,June,CA,Azusa city,16
+2020,June,CA,Bakersfield city,16.2
+2020,June,CA,Baldwin Park city,19.1
+2020,June,CA,Banning city,16.1
+2020,June,CA,Barstow city,17.2
+2020,June,CA,Bay Point CDP,19.9
+2020,June,CA,Beale AFB CDP,18.8
+2020,June,CA,Bear Valley CDP,0
+2020,June,CA,Bear Valley Springs CDP,8.7
+2020,June,CA,Beaumont city,12.3
+2020,June,CA,Beckwourth CDP,0
+2020,June,CA,Belden CDP,0
+2020,June,CA,Bell city,18.3
+2020,June,CA,Bellflower city,20.1
+2020,June,CA,Bell Gardens city,17.6
+2020,June,CA,Belmont city,7
+2020,June,CA,Benicia city,10
+2020,June,CA,Ben Lomond CDP,5.3
+2020,June,CA,Berkeley city,9.1
+2020,June,CA,Bermuda Dunes CDP,12.3
+2020,June,CA,Bertsch Oceanview CDP,26.2
+2020,June,CA,Bethel Island CDP,9.2
+2020,June,CA,Beverly Hills city,14.7
+2020,June,CA,Big Bear City CDP,8.1
+2020,June,CA,Big Bear Lake city,5.2
+2020,June,CA,Biggs city,6.6
+2020,June,CA,Big Pine CDP,12.2
+2020,June,CA,Big River CDP,19.4
+2020,June,CA,Biola CDP,35
+2020,June,CA,Bishop city,8.1
+2020,June,CA,Bloomington CDP,14.4
+2020,June,CA,Blue Lake city,10.2
+2020,June,CA,Bluewater CDP,20.6
+2020,June,CA,Blythe city,14.2
+2020,June,CA,Bodega Bay CDP,7
+2020,June,CA,Bodfish CDP,17.7
+2020,June,CA,Bonadelle Ranchos Madera Ranchos CDP,9.2
+2020,June,CA,Bonita CDP,18
+2020,June,CA,Bootjack CDP,15.8
+2020,June,CA,Boron CDP,11
+2020,June,CA,Boronda CDP,49.2
+2020,June,CA,Bostonia CDP,21.8
+2020,June,CA,Boulder Creek CDP,13.6
+2020,June,CA,Boyes Hot Springs CDP,6.5
+2020,June,CA,Bradbury city,6.2
+2020,June,CA,Bradley CDP,0
+2020,June,CA,Brawley city,21.1
+2020,June,CA,Brea city,12.4
+2020,June,CA,Brentwood city,11.9
+2020,June,CA,Bret Harte CDP,25.8
+2020,June,CA,Brisbane city,9.6
+2020,June,CA,Broadmoor CDP,17.3
+2020,June,CA,Bucks Lake CDP,0
+2020,June,CA,Buellton city,4.3
+2020,June,CA,Buena Park city,15.4
+2020,June,CA,Burbank city,20.9
+2020,June,CA,Burlingame city,7.8
+2020,June,CA,Burney CDP,11
+2020,June,CA,Buttonwillow CDP,17.2
+2020,June,CA,Byron CDP,21.1
+2020,June,CA,Bystrom CDP,14.3
+2020,June,CA,Cabazon CDP,11.6
+2020,June,CA,Calabasas city,11.8
+2020,June,CA,Calexico city,38.7
+2020,June,CA,California City city,30.3
+2020,June,CA,Calimesa city,13.6
+2020,June,CA,Calipatria city,32.7
+2020,June,CA,Calistoga city,13.6
+2020,June,CA,Calwa CDP,23.4
+2020,June,CA,Camarillo city,10.2
+2020,June,CA,Cambria CDP,12.6
+2020,June,CA,Cameron Park CDP,9.5
+2020,June,CA,Campbell city,8.3
+2020,June,CA,Cantua Creek CDP,12.7
+2020,June,CA,Canyondam CDP,76.2
+2020,June,CA,Canyon Lake city,7.2
+2020,June,CA,Capitola city,3.4
+2020,June,CA,Carlsbad city,11
+2020,June,CA,Carmel by the Sea city,0.4
+2020,June,CA,Carmel Valley Village CDP,17.7
+2020,June,CA,Carmichael CDP,12.4
+2020,June,CA,Carpinteria city,8.4
+2020,June,CA,Carson city,18.5
+2020,June,CA,Cartago CDP,0
+2020,June,CA,Caruthers CDP,13.1
+2020,June,CA,Casa Conejo CDP,17.2
+2020,June,CA,Casa de Oro Mount Helix CDP,11.7
+2020,June,CA,Castro Valley CDP,11
+2020,June,CA,Castroville CDP,21.5
+2020,June,CA,Cathedral City city,16.5
+2020,June,CA,Cayucos CDP,9.7
+2020,June,CA,Ceres city,14.3
+2020,June,CA,Cerritos city,15.6
+2020,June,CA,Challenge Brownsville CDP,0
+2020,June,CA,Channel Islands Beach CDP,27.7
+2020,June,CA,Charter Oak CDP,21.3
+2020,June,CA,Cherryland CDP,20.2
+2020,June,CA,Cherry Valley CDP,8.6
+2020,June,CA,Chester CDP,9.5
+2020,June,CA,Chico city,11.4
+2020,June,CA,Chilcoot Vinton CDP,10
+2020,June,CA,China Lake Acres CDP,14.2
+2020,June,CA,Chinese Camp CDP,0
+2020,June,CA,Chino city,13
+2020,June,CA,Chino Hills city,10.8
+2020,June,CA,Chowchilla city,11.6
+2020,June,CA,Chualar CDP,13.3
+2020,June,CA,Chula Vista city,14
+2020,June,CA,Citrus CDP,13.2
+2020,June,CA,Citrus Heights city,11.8
+2020,June,CA,Claremont city,13
+2020,June,CA,Clayton city,5.8
+2020,June,CA,Clearlake city,20.9
+2020,June,CA,Clearlake Oaks CDP,16
+2020,June,CA,Clio CDP,0
+2020,June,CA,Cloverdale city,5.6
+2020,June,CA,Clovis city,11.5
+2020,June,CA,Clyde CDP,9
+2020,June,CA,Coachella city,19
+2020,June,CA,Coalinga city,14.2
+2020,June,CA,Cobb CDP,8
+2020,June,CA,Colfax city,14.5
+2020,June,CA,Colton city,13.6
+2020,June,CA,Columbia CDP,26.2
+2020,June,CA,Colusa city,12.8
+2020,June,CA,Commerce city,21.2
+2020,June,CA,Compton city,21.6
+2020,June,CA,Concord city,11.8
+2020,June,CA,Concow CDP,22.3
+2020,June,CA,Copperopolis CDP,10.3
+2020,June,CA,Corcoran city,20.7
+2020,June,CA,Corning city,12.7
+2020,June,CA,Corona city,11.8
+2020,June,CA,Coronado city,9.1
+2020,June,CA,Corralitos CDP,10
+2020,June,CA,Corte Madera town,11.1
+2020,June,CA,Costa Mesa city,11.1
+2020,June,CA,Cotati city,10.3
+2020,June,CA,Coto de Caza CDP,11.8
+2020,June,CA,Cottonwood CDP,10.1
+2020,June,CA,Country Club CDP,23.4
+2020,June,CA,Covelo CDP,13.3
+2020,June,CA,Covina city,18.7
+2020,June,CA,Crescent City city,9.4
+2020,June,CA,Crescent Mills CDP,0
+2020,June,CA,Crestline CDP,8.4
+2020,June,CA,C Road CDP,16.1
+2020,June,CA,Crockett CDP,16.7
+2020,June,CA,Cromberg CDP,0
+2020,June,CA,Cudahy city,16.8
+2020,June,CA,Culver City city,15.5
+2020,June,CA,Cupertino city,6.4
+2020,June,CA,Cutler CDP,17.2
+2020,June,CA,Cypress city,13.3
+2020,June,CA,Daly City city,13.9
+2020,June,CA,Dana Point city,10.7
+2020,June,CA,Danville town,8.5
+2020,June,CA,Darwin CDP,0
+2020,June,CA,Davis city,7.5
+2020,June,CA,Day Valley CDP,10.6
+2020,June,CA,Deer Park CDP,16.6
+2020,June,CA,Del Aire CDP,15
+2020,June,CA,Delano city,25.4
+2020,June,CA,Delhi CDP,13.8
+2020,June,CA,Delleker CDP,0
+2020,June,CA,Del Mar city,9.1
+2020,June,CA,Del Monte Forest CDP,13.9
+2020,June,CA,Del Rey CDP,16.9
+2020,June,CA,Del Rey Oaks city,13.1
+2020,June,CA,Denair CDP,12.7
+2020,June,CA,Derby Acres CDP,2.9
+2020,June,CA,Desert Hot Springs city,21.3
+2020,June,CA,Desert View Highlands CDP,26.7
+2020,June,CA,Diablo CDP,0
+2020,June,CA,Diamond Bar city,15.8
+2020,June,CA,Diamond Springs CDP,13.1
+2020,June,CA,Dinuba city,21.4
+2020,June,CA,Discovery Bay CDP,11.1
+2020,June,CA,Dixon city,12.4
+2020,June,CA,Dixon Lane Meadow Creek CDP,10.4
+2020,June,CA,Dollar Point CDP,6.7
+2020,June,CA,Dorrington CDP,12.2
+2020,June,CA,Dos Palos city,11.1
+2020,June,CA,Downey city,17.8
+2020,June,CA,Duarte city,21.3
+2020,June,CA,Dublin city,9.3
+2020,June,CA,Ducor CDP,15.2
+2020,June,CA,Dunsmuir city,7.1
+2020,June,CA,Durham CDP,5.3
+2020,June,CA,Dustin Acres CDP,7.8
+2020,June,CA,Earlimart CDP,23.7
+2020,June,CA,East Foothills CDP,5.8
+2020,June,CA,East Hemet CDP,20.3
+2020,June,CA,East Los Angeles CDP,27.4
+2020,June,CA,East Oakdale CDP,11.7
+2020,June,CA,Easton CDP,14.2
+2020,June,CA,East Orosi CDP,42.7
+2020,June,CA,East Palo Alto city,10.8
+2020,June,CA,East Pasadena CDP,8.1
+2020,June,CA,East Porterville CDP,34.2
+2020,June,CA,East Quincy CDP,1.6
+2020,June,CA,East Richmond Heights CDP,5.7
+2020,June,CA,East San Gabriel CDP,7.6
+2020,June,CA,East Shore CDP,77.2
+2020,June,CA,East Sonora CDP,0
+2020,June,CA,Eastvale City city,12.5
+2020,June,CA,Edwards AFB CDP,18.7
+2020,June,CA,El Cajon city,16.4
+2020,June,CA,El Centro city,23.9
+2020,June,CA,El Cerrito city,11.6
+2020,June,CA,El Cerrito CDP,8.7
+2020,June,CA,El Dorado Hills CDP,8.3
+2020,June,CA,El Granada CDP,8.7
+2020,June,CA,Elk Grove CDP,11.5
+2020,June,CA,Elkhorn CDP,17.9
+2020,June,CA,Elmira CDP,10.9
+2020,June,CA,El Monte city,20
+2020,June,CA,El Paso de Robles (Paso Robles) city,10
+2020,June,CA,El Rio CDP,18.9
+2020,June,CA,El Segundo city,20.8
+2020,June,CA,El Sobrante CDP,14.5
+2020,June,CA,El Verano CDP,4.4
+2020,June,CA,Emeryville city,8.7
+2020,June,CA,Empire CDP,9.4
+2020,June,CA,Encinitas city,9.5
+2020,June,CA,Escalon city,8.2
+2020,June,CA,Escondido city,11.5
+2020,June,CA,Esparto CDP,9.2
+2020,June,CA,Eureka city,10.4
+2020,June,CA,Exeter city,16
+2020,June,CA,Fairfax town,8
+2020,June,CA,Fairfield city,12.2
+2020,June,CA,Fair Oaks CDP,8.6
+2020,June,CA,Fairview CDP,6
+2020,June,CA,Fallbrook CDP,11.5
+2020,June,CA,Fall River Mills CDP,0
+2020,June,CA,Farmersville city,19.2
+2020,June,CA,Farmington CDP,0
+2020,June,CA,Fellows CDP,17.6
+2020,June,CA,Felton CDP,15.1
+2020,June,CA,Ferndale city,4.2
+2020,June,CA,Fetters Hot Springs Agua Caliente CDP,4.4
+2020,June,CA,Fillmore city,9.8
+2020,June,CA,Firebaugh city,21.7
+2020,June,CA,Florence Graham CDP,23.3
+2020,June,CA,Florin CDP,20.1
+2020,June,CA,Folsom city,8.6
+2020,June,CA,Fontana city,12.9
+2020,June,CA,Foothill Farms CDP,13
+2020,June,CA,Ford City CDP,18.3
+2020,June,CA,Foresthill CDP,8.7
+2020,June,CA,Forest Meadows CDP,16.7
+2020,June,CA,Forestville CDP,11.2
+2020,June,CA,Fort Bragg city,10.7
+2020,June,CA,Fortuna city,8.9
+2020,June,CA,Foster City city,6.6
+2020,June,CA,Fountain Valley city,13.1
+2020,June,CA,Fowler city,10.3
+2020,June,CA,Frazier Park CDP,17.7
+2020,June,CA,Freedom CDP,16.3
+2020,June,CA,Fremont city,9.2
+2020,June,CA,French Camp CDP,15.8
+2020,June,CA,Fresno city,14.1
+2020,June,CA,Friant CDP,22.2
+2020,June,CA,Fullerton city,13.7
+2020,June,CA,Furnace Creek CDP,1.9
+2020,June,CA,Galt city,11
+2020,June,CA,Gardena city,19.8
+2020,June,CA,Garden Acres CDP,19.6
+2020,June,CA,Garden Grove city,16.7
+2020,June,CA,Georgetown CDP,21.1
+2020,June,CA,Gilroy city,11
+2020,June,CA,Glendale city,19.3
+2020,June,CA,Glendora city,15.1
+2020,June,CA,Glen Ellen CDP,0
+2020,June,CA,Golden Hills CDP,8.3
+2020,June,CA,Gold River CDP,13.6
+2020,June,CA,Goleta City,8.8
+2020,June,CA,Gonzales city,2.5
+2020,June,CA,Goshen CDP,16.5
+2020,June,CA,Graeagle CDP,9.8
+2020,June,CA,Grand Terrace city,13.1
+2020,June,CA,Granite Bay CDP,10.3
+2020,June,CA,Grass Valley city,13
+2020,June,CA,Graton CDP,17.8
+2020,June,CA,Greenfield city,10.4
+2020,June,CA,Greenhorn CDP,17.8
+2020,June,CA,Green Valley CDP,0
+2020,June,CA,Greenville CDP,23.7
+2020,June,CA,Gridley city,12.4
+2020,June,CA,Grover Beach city,12.4
+2020,June,CA,Guadalupe city,8.3
+2020,June,CA,Guerneville CDP,10.4
+2020,June,CA,Gustine city,15.1
+2020,June,CA,Hacienda Heights CDP,14.8
+2020,June,CA,Half Moon Bay city,7.3
+2020,June,CA,Hamilton Branch CDP,19.7
+2020,June,CA,Hamilton City CDP,11.2
+2020,June,CA,Hanford city,12.6
+2020,June,CA,Hawaiian Gardens city,19
+2020,June,CA,Hawthorne city,21.2
+2020,June,CA,Hayfork CDP,2.4
+2020,June,CA,Hayward city,13.9
+2020,June,CA,Healdsburg city,8.9
+2020,June,CA,Heber CDP,27.5
+2020,June,CA,Hemet city,17
+2020,June,CA,Hercules city,12.2
+2020,June,CA,Hermosa Beach city,9.4
+2020,June,CA,Hesperia city,14.7
+2020,June,CA,Hidden Hills city,15.1
+2020,June,CA,Hidden Valley Lake CDP,3.7
+2020,June,CA,Highgrove CDP,20.1
+2020,June,CA,Highland city,13.8
+2020,June,CA,Hillsborough town,9.6
+2020,June,CA,Hilmar Irwin CDP,5
+2020,June,CA,Hollister city,12.9
+2020,June,CA,Holtville city,29
+2020,June,CA,Home Garden CDP,20.7
+2020,June,CA,Home Gardens CDP,11.8
+2020,June,CA,Homeland CDP,14.7
+2020,June,CA,Hughson city,10.6
+2020,June,CA,Huntington Beach city,11.8
+2020,June,CA,Huntington Park city,16.3
+2020,June,CA,Huron city,19.3
+2020,June,CA,Hydesville CDP,1.4
+2020,June,CA,Idyllwild Pine Cove CDP,8.5
+2020,June,CA,Imperial city,23.8
+2020,June,CA,Imperial Beach city,16
+2020,June,CA,Independence CDP,5.9
+2020,June,CA,Indian Falls CDP,0
+2020,June,CA,Indian Wells city,11.5
+2020,June,CA,Indio city,16.6
+2020,June,CA,Industry city,20
+2020,June,CA,Inglewood city,22.9
+2020,June,CA,Interlaken CDP,11.8
+2020,June,CA,Inverness CDP,3.8
+2020,June,CA,Inyokern CDP,0
+2020,June,CA,Ione city,11.3
+2020,June,CA,Iron Horse CDP,0
+2020,June,CA,Irvine city,10.2
+2020,June,CA,Irwindale city,25.2
+2020,June,CA,Isla Vista CDP,21.1
+2020,June,CA,Isleton city,11.9
+2020,June,CA,Ivanhoe CDP,18
+2020,June,CA,Jackson city,9.9
+2020,June,CA,Jamestown CDP,19.6
+2020,June,CA,Johannesburg CDP,0
+2020,June,CA,Johnsville CDP,0
+2020,June,CA,Joshua Tree CDP,20.1
+2020,June,CA,Jurupa Valley city,12.2
+2020,June,CA,Keddie CDP,56.3
+2020,June,CA,Keeler CDP,0
+2020,June,CA,Keene CDP,17.4
+2020,June,CA,Kelseyville CDP,7.8
+2020,June,CA,Kennedy CDP,22.6
+2020,June,CA,Kensington CDP,7.7
+2020,June,CA,Kerman city,11.6
+2020,June,CA,Kernville CDP,0
+2020,June,CA,Kettleman City CDP,18.6
+2020,June,CA,Keyes CDP,14.1
+2020,June,CA,King City city,6.8
+2020,June,CA,Kings Beach CDP,3.8
+2020,June,CA,Kingsburg city,9.5
+2020,June,CA,Kirkwood CDP,6.3
+2020,June,CA,Klamath CDP,17.9
+2020,June,CA,Knightsen CDP,6.9
+2020,June,CA,La Canada Flintridge city,9.1
+2020,June,CA,La Crescenta Montrose CDP,13.5
+2020,June,CA,Ladera Heights CDP,21.6
+2020,June,CA,Lafayette city,7.4
+2020,June,CA,Laguna Beach city,9.6
+2020,June,CA,Laguna Hills city,10.1
+2020,June,CA,Laguna Niguel city,10.5
+2020,June,CA,Laguna Woods city,8.4
+2020,June,CA,La Habra city,12.8
+2020,June,CA,La Habra Heights city,15.2
+2020,June,CA,Lake Almanor Country Club CDP,0
+2020,June,CA,Lake Almanor Peninsula CDP,0
+2020,June,CA,Lake Almanor West CDP,31.3
+2020,June,CA,Lake Arrowhead CDP,13.7
+2020,June,CA,Lake Elsinore city,13.9
+2020,June,CA,Lake Forest city,9.6
+2020,June,CA,Lake Isabella CDP,22.2
+2020,June,CA,Lakeland Village CDP,20
+2020,June,CA,Lake Los Angeles CDP,30.7
+2020,June,CA,Lake Nacimiento CDP,8.5
+2020,June,CA,Lake of the Pines CDP,15.1
+2020,June,CA,Lake of the Woods CDP,16.3
+2020,June,CA,Lakeport city,6.5
+2020,June,CA,Lakeside CDP,15.8
+2020,June,CA,Lakeview CDP,14.6
+2020,June,CA,Lake Wildwood CDP,2.7
+2020,June,CA,Lakewood city,17.4
+2020,June,CA,La Mesa city,12.8
+2020,June,CA,La Mirada city,17.3
+2020,June,CA,Lamont CDP,15.2
+2020,June,CA,Lanare CDP,0
+2020,June,CA,Lancaster city,19.6
+2020,June,CA,La Palma city,12.1
+2020,June,CA,La Porte CDP,0
+2020,June,CA,La Puente city,18.3
+2020,June,CA,La Quinta city,15
+2020,June,CA,La Riviera CDP,10.8
+2020,June,CA,Larkspur city,6.9
+2020,June,CA,Las Flores CDP,4.2
+2020,June,CA,Las Lomas CDP,14.8
+2020,June,CA,Lathrop city,11.2
+2020,June,CA,Laton CDP,16
+2020,June,CA,La Verne city,14.9
+2020,June,CA,Lawndale city,21.1
+2020,June,CA,Laytonville CDP,25
+2020,June,CA,Lebec CDP,26.8
+2020,June,CA,Le Grand CDP,18.7
+2020,June,CA,Lemon Cove CDP,5.9
+2020,June,CA,Lemon Grove city,15.5
+2020,June,CA,Lemoore city,11.7
+2020,June,CA,Lemoore Station CDP,10
+2020,June,CA,Lennox CDP,18.8
+2020,June,CA,Lenwood CDP,3.7
+2020,June,CA,Lewiston CDP,8.4
+2020,June,CA,Lincoln city,10
+2020,June,CA,Lincoln Village CDP,13.3
+2020,June,CA,Linda CDP,18.2
+2020,June,CA,Linden CDP,5.9
+2020,June,CA,Lindsay city,22
+2020,June,CA,Little Grass Valley CDP,0
+2020,June,CA,Littlerock CDP,33.4
+2020,June,CA,Live Oak CDP,7.7
+2020,June,CA,Live Oak city,11.9
+2020,June,CA,Livermore city,9.6
+2020,June,CA,Livingston city,7.5
+2020,June,CA,Lockeford CDP,16.1
+2020,June,CA,Lodi city,12.7
+2020,June,CA,Loma Linda city,8.7
+2020,June,CA,Loma Rica CDP,4.8
+2020,June,CA,Lomita city,16.5
+2020,June,CA,Lompoc city,12.7
+2020,June,CA,London CDP,23.2
+2020,June,CA,Lone Pine CDP,10
+2020,June,CA,Long Beach city,18.4
+2020,June,CA,Loomis town,11.5
+2020,June,CA,Los Alamitos city,12.8
+2020,June,CA,Los Alamos CDP,10.3
+2020,June,CA,Los Altos city,5.2
+2020,June,CA,Los Angeles city,18.5
+2020,June,CA,Los Banos city,17.3
+2020,June,CA,Los Gatos town,7.7
+2020,June,CA,Los Molinos CDP,10.8
+2020,June,CA,Lost Hills CDP,6.4
+2020,June,CA,Lower Lake CDP,10.5
+2020,June,CA,Loyalton city,9.6
+2020,June,CA,Lucerne CDP,6.5
+2020,June,CA,Lynwood city,19.8
+2020,June,CA,McCloud CDP,18.2
+2020,June,CA,McFarland city,20.6
+2020,June,CA,McKinleyville CDP,7.7
+2020,June,CA,McKittrick CDP,0
+2020,June,CA,Madera city,13
+2020,June,CA,Madera Acres CDP,9.3
+2020,June,CA,Magalia CDP,8.2
+2020,June,CA,Malibu city,12
+2020,June,CA,Mammoth Lakes town,1.7
+2020,June,CA,Manhattan Beach city,10.2
+2020,June,CA,Manteca city,13.8
+2020,June,CA,Manton CDP,10.6
+2020,June,CA,March AFB CDP,4.2
+2020,June,CA,Maricopa city,21.7
+2020,June,CA,Marina city,15.6
+2020,June,CA,Marina del Rey CDP,11.7
+2020,June,CA,Mariposa CDP,5.9
+2020,June,CA,Markleeville CDP,0
+2020,June,CA,Martinez city,10.5
+2020,June,CA,Marysville city,12.3
+2020,June,CA,Mayflower Village CDP,12.5
+2020,June,CA,Maywood city,15.5
+2020,June,CA,Meadow Valley CDP,33.3
+2020,June,CA,Meadow Vista CDP,6.4
+2020,June,CA,Mecca CDP,14.8
+2020,June,CA,Meiners Oaks CDP,8.3
+2020,June,CA,Mendocino CDP,0
+2020,June,CA,Mendota city,28.8
+2020,June,CA,Menifee City,14.1
+2020,June,CA,Menlo Park city,5.3
+2020,June,CA,Mentone CDP,11.4
+2020,June,CA,Merced city,15.6
+2020,June,CA,Mesa CDP,10.4
+2020,June,CA,Mesa Vista CDP,32.3
+2020,June,CA,Mettler CDP,30.8
+2020,June,CA,Middletown CDP,14.8
+2020,June,CA,Millbrae city,9
+2020,June,CA,Mill Valley city,5.8
+2020,June,CA,Milpitas city,10.6
+2020,June,CA,Mineral CDP,18.1
+2020,June,CA,Mira Monte CDP,13.2
+2020,June,CA,Mission Canyon CDP,2.8
+2020,June,CA,Mission Hills CDP,17.8
+2020,June,CA,Mission Viejo city,11
+2020,June,CA,Mi Wuk Village CDP,24.7
+2020,June,CA,Modesto city,14.5
+2020,June,CA,Mohawk Vista CDP,0
+2020,June,CA,Mojave CDP,33.6
+2020,June,CA,Mokelumne Hill CDP,24.7
+2020,June,CA,Mono Vista CDP,1.8
+2020,June,CA,Monrovia city,15.3
+2020,June,CA,Montclair city,12.5
+2020,June,CA,Montebello city,19.5
+2020,June,CA,Montecito CDP,14.5
+2020,June,CA,Monterey city,13.6
+2020,June,CA,Monterey Park city,23
+2020,June,CA,Monte Rio CDP,33.5
+2020,June,CA,Moorpark city,10.5
+2020,June,CA,Morada CDP,0
+2020,June,CA,Moraga town,7.6
+2020,June,CA,Moreno Valley city,14.3
+2020,June,CA,Morgan Hill city,9.5
+2020,June,CA,Morongo Valley CDP,12.1
+2020,June,CA,Morro Bay city,15.1
+2020,June,CA,Moss Landing CDP,0
+2020,June,CA,Mountain Mesa CDP,14.7
+2020,June,CA,Mountain Ranch CDP,16.3
+2020,June,CA,Mountain View CDP,21.9
+2020,June,CA,Mountain View city,5.2
+2020,June,CA,Mountain View Acres CDP,20.4
+2020,June,CA,Mount Shasta city,3
+2020,June,CA,Murphys CDP,10.4
+2020,June,CA,Murrieta city,12.6
+2020,June,CA,Muscoy CDP,25.3
+2020,June,CA,Napa city,11
+2020,June,CA,National City city,16.5
+2020,June,CA,Needles city,9.2
+2020,June,CA,Nevada City city,9
+2020,June,CA,Newark city,11.3
+2020,June,CA,Newman city,17.5
+2020,June,CA,Newport Beach city,9.3
+2020,June,CA,Nice CDP,7.4
+2020,June,CA,Nipomo CDP,14.1
+2020,June,CA,Norco city,11.1
+2020,June,CA,North Auburn CDP,8
+2020,June,CA,North Edwards CDP,24
+2020,June,CA,North El Monte CDP,9.9
+2020,June,CA,North Fair Oaks CDP,6.8
+2020,June,CA,North Highlands CDP,10.5
+2020,June,CA,North Lakeport CDP,4.5
+2020,June,CA,Norwalk city,19
+2020,June,CA,Novato city,9.1
+2020,June,CA,Nuevo CDP,13.1
+2020,June,CA,Oakdale city,16.7
+2020,June,CA,Oakhurst CDP,12.2
+2020,June,CA,Oakland city,14.3
+2020,June,CA,Oakley city,12.9
+2020,June,CA,Oak Park CDP,13.1
+2020,June,CA,Oak View CDP,11.7
+2020,June,CA,Occidental CDP,0
+2020,June,CA,Oceano CDP,13
+2020,June,CA,Oceanside city,13.1
+2020,June,CA,Oildale CDP,23.3
+2020,June,CA,Ojai city,8.9
+2020,June,CA,Olancha CDP,14.7
+2020,June,CA,Olivehurst CDP,17.6
+2020,June,CA,Ontario city,12.8
+2020,June,CA,Onyx CDP,0
+2020,June,CA,Orange city,11.4
+2020,June,CA,Orange Cove city,20.1
+2020,June,CA,Orangevale CDP,8.9
+2020,June,CA,Orcutt CDP,10.8
+2020,June,CA,Orinda city,7.2
+2020,June,CA,Orland city,11.1
+2020,June,CA,Oroville city,11.6
+2020,June,CA,Oroville East CDP,8.7
+2020,June,CA,Oxnard city,11.6
+2020,June,CA,Pacheco CDP,19.6
+2020,June,CA,Pacifica city,9.5
+2020,June,CA,Pacific Grove city,10
+2020,June,CA,Pajaro CDP,39.5
+2020,June,CA,Palermo CDP,20.7
+2020,June,CA,Palmdale city,20
+2020,June,CA,Palm Desert city,15.9
+2020,June,CA,Palm Springs city,15.5
+2020,June,CA,Palo Alto city,5
+2020,June,CA,Palos Verdes Estates city,9.5
+2020,June,CA,Paradise town,4.1
+2020,June,CA,Paramount city,19.5
+2020,June,CA,Parksdale CDP,13.3
+2020,June,CA,Parkwood CDP,17.2
+2020,June,CA,Parlier city,14.6
+2020,June,CA,Pasadena city,15
+2020,June,CA,Patterson city,12.6
+2020,June,CA,Paxton CDP,0
+2020,June,CA,Penn Valley CDP,16.7
+2020,June,CA,Perris city,14.7
+2020,June,CA,Petaluma city,9.3
+2020,June,CA,Pico Rivera city,18.5
+2020,June,CA,Piedmont city,7.3
+2020,June,CA,Pine Mountain Club CDP,11.8
+2020,June,CA,Pinole city,11.8
+2020,June,CA,Piru CDP,17.1
+2020,June,CA,Pismo Beach city,5.7
+2020,June,CA,Pittsburg city,15.3
+2020,June,CA,Pixley CDP,28.7
+2020,June,CA,Placentia city,12.4
+2020,June,CA,Placerville city,8
+2020,June,CA,Planada CDP,18
+2020,June,CA,Pleasant Hill city,10
+2020,June,CA,Pleasanton city,8.4
+2020,June,CA,Plumas Eureka CDP,14.2
+2020,June,CA,Plymouth city,9.2
+2020,June,CA,Point Arena city,8.8
+2020,June,CA,Point Reyes Station CDP,0
+2020,June,CA,Pollock Pines CDP,10.1
+2020,June,CA,Pomona city,17.9
+2020,June,CA,Poplar Cotton Center CDP,44.4
+2020,June,CA,Port Costa CDP,0
+2020,June,CA,Porterville city,18.5
+2020,June,CA,Port Hueneme city,11.1
+2020,June,CA,Portola city,3.4
+2020,June,CA,Poway city,8.6
+2020,June,CA,Prattville CDP,0
+2020,June,CA,Prunedale CDP,13.6
+2020,June,CA,Quartz Hill CDP,18.4
+2020,June,CA,Quincy CDP,5.4
+2020,June,CA,Raisin City CDP,14.5
+2020,June,CA,Ramona CDP,10.6
+2020,June,CA,Rancho Calaveras CDP,8.5
+2020,June,CA,Rancho Cordova City,12.4
+2020,June,CA,Rancho Cucamonga city,11.2
+2020,June,CA,Rancho Mirage city,10.6
+2020,June,CA,Rancho Murieta CDP,5.9
+2020,June,CA,Rancho Palos Verdes city,11.6
+2020,June,CA,Rancho Santa Margarita city,9.6
+2020,June,CA,Rancho Tehama Reserve CDP,17.2
+2020,June,CA,Randsburg CDP,0
+2020,June,CA,Red Bluff city,12.2
+2020,June,CA,Redding city,10.7
+2020,June,CA,Redlands city,10.4
+2020,June,CA,Redondo Beach city,13.7
+2020,June,CA,Redway CDP,11
+2020,June,CA,Redwood City city,7
+2020,June,CA,Reedley city,14.7
+2020,June,CA,Rialto city,14.5
+2020,June,CA,Richgrove CDP,49.4
+2020,June,CA,Richmond city,15
+2020,June,CA,Ridgecrest city,7.4
+2020,June,CA,Ridgemark CDP,7.1
+2020,June,CA,Rio Dell city,13.8
+2020,June,CA,Rio del Mar CDP,8.2
+2020,June,CA,Rio Linda CDP,9.9
+2020,June,CA,Rio Vista city,15.2
+2020,June,CA,Ripon city,8.8
+2020,June,CA,Riverbank city,11
+2020,June,CA,Riverdale CDP,6.1
+2020,June,CA,Riverside city,12.6
+2020,June,CA,Rocklin city,9.6
+2020,June,CA,Rodeo CDP,13.6
+2020,June,CA,Rohnert Park city,10.8
+2020,June,CA,Rolling Hills city,16.5
+2020,June,CA,Rolling Hills Estates city,14.1
+2020,June,CA,Rollingwood CDP,16.2
+2020,June,CA,Romoland CDP,13.3
+2020,June,CA,Rosamond CDP,19.5
+2020,June,CA,Rosedale CDP,10.1
+2020,June,CA,Rosemead city,24.8
+2020,June,CA,Rosemont CDP,12.5
+2020,June,CA,Roseville city,10.1
+2020,June,CA,Rossmoor CDP,10.4
+2020,June,CA,Round Valley CDP,0
+2020,June,CA,Rowland Heights CDP,13.5
+2020,June,CA,Running Springs CDP,17.4
+2020,June,CA,Sacramento city,13
+2020,June,CA,St. Helena city,5
+2020,June,CA,Salida CDP,12.4
+2020,June,CA,Salinas city,12.4
+2020,June,CA,San Andreas CDP,4.1
+2020,June,CA,San Anselmo town,12
+2020,June,CA,San Antonio Heights CDP,3.5
+2020,June,CA,San Ardo CDP,3.5
+2020,June,CA,San Bernardino city,16.1
+2020,June,CA,San Bruno city,11.2
+2020,June,CA,San Buenaventura (Ventura) city,11.4
+2020,June,CA,San Carlos city,6.5
+2020,June,CA,San Clemente city,10.7
+2020,June,CA,Sand City city,8.2
+2020,June,CA,San Diego city,12.1
+2020,June,CA,San Dimas city,15
+2020,June,CA,San Fernando city,17.3
+2020,June,CA,San Francisco city,10.9
+2020,June,CA,San Gabriel city,20.8
+2020,June,CA,Sanger city,14.2
+2020,June,CA,San Jacinto city,16
+2020,June,CA,San Joaquin city,21
+2020,June,CA,San Jose city,10.8
+2020,June,CA,San Juan Bautista city,6.9
+2020,June,CA,San Juan Capistrano city,10.4
+2020,June,CA,San Leandro city,15
+2020,June,CA,San Lorenzo CDP,12.5
+2020,June,CA,San Lucas CDP,20.8
+2020,June,CA,San Luis Obispo city,10
+2020,June,CA,San Marcos city,11.3
+2020,June,CA,San Marino city,10.2
+2020,June,CA,San Martin CDP,8.1
+2020,June,CA,San Mateo city,8
+2020,June,CA,San Miguel CDP,19.8
+2020,June,CA,San Pablo city,15.5
+2020,June,CA,San Rafael city,9.1
+2020,June,CA,San Ramon city,9.3
+2020,June,CA,Santa Ana city,12.5
+2020,June,CA,Santa Barbara city,9.9
+2020,June,CA,Santa Clara city,7.9
+2020,June,CA,Santa Clarita city,17.2
+2020,June,CA,Santa Cruz city,11.1
+2020,June,CA,Santa Fe Springs city,11.4
+2020,June,CA,Santa Maria city,10.3
+2020,June,CA,Santa Monica city,15.2
+2020,June,CA,Santa Paula city,11.4
+2020,June,CA,Santa Rosa city,10.1
+2020,June,CA,Santa Ynez CDP,10.7
+2020,June,CA,Santee city,10.9
+2020,June,CA,Saratoga city,6.2
+2020,June,CA,Sausalito city,8.9
+2020,June,CA,Scotts Valley city,6.6
+2020,June,CA,Seal Beach city,11.3
+2020,June,CA,Searles Valley CDP,22.5
+2020,June,CA,Seaside city,15
+2020,June,CA,Sebastopol city,16.2
+2020,June,CA,Selma city,10.2
+2020,June,CA,Shafter city,22.4
+2020,June,CA,Shandon CDP,11.5
+2020,June,CA,Shasta Lake city,12.5
+2020,June,CA,Shaver Lake CDP,1.5
+2020,June,CA,Shingle Springs CDP,2.6
+2020,June,CA,Shingletown CDP,13.7
+2020,June,CA,Shoshone CDP,0
+2020,June,CA,Sierra Madre city,18.3
+2020,June,CA,Signal Hill city,17
+2020,June,CA,Simi Valley city,11.8
+2020,June,CA,Solana Beach city,6.9
+2020,June,CA,Soledad city,12.5
+2020,June,CA,Solvang city,5.9
+2020,June,CA,Sonoma city,7.9
+2020,June,CA,Sonora city,12.1
+2020,June,CA,Soquel CDP,8.9
+2020,June,CA,Soulsbyville CDP,11.7
+2020,June,CA,South Dos Palos CDP,28
+2020,June,CA,South El Monte city,17.7
+2020,June,CA,South Gate city,18.6
+2020,June,CA,South Lake Tahoe city,11.5
+2020,June,CA,South Oroville CDP,10.7
+2020,June,CA,South Pasadena city,14.8
+2020,June,CA,South San Francisco city,12.4
+2020,June,CA,South San Gabriel CDP,19.2
+2020,June,CA,South San Jose Hills CDP,23.9
+2020,June,CA,South Taft CDP,34.4
+2020,June,CA,South Whittier CDP,15.7
+2020,June,CA,Spreckels CDP,0
+2020,June,CA,Spring Garden CDP,0
+2020,June,CA,Spring Valley CDP,16.7
+2020,June,CA,Springville CDP,8.1
+2020,June,CA,Squaw Valley CDP,11.4
+2020,June,CA,Squirrel Mountain Valley CDP,36.4
+2020,June,CA,Stallion Springs CDP,25.6
+2020,June,CA,Stanton city,15.1
+2020,June,CA,Stockton city,16.4
+2020,June,CA,Stratford CDP,17
+2020,June,CA,Strathmore CDP,30.1
+2020,June,CA,Suisun City city,12.8
+2020,June,CA,Summerland CDP,10.3
+2020,June,CA,Sunnyside Tahoe City CDP,14.6
+2020,June,CA,Sunnyvale city,6.8
+2020,June,CA,Sunol CDP,11.4
+2020,June,CA,Susanville city,8.2
+2020,June,CA,Sutter CDP,10.3
+2020,June,CA,Sutter Creek city,6.3
+2020,June,CA,Taft city,10.8
+2020,June,CA,Taft Heights CDP,15.6
+2020,June,CA,Taft Mosswood CDP,15.6
+2020,June,CA,Tahoe Vista CDP,2.1
+2020,June,CA,Tamalpais Homestead Valley CDP,11.1
+2020,June,CA,Tara Hills CDP,12.4
+2020,June,CA,Taylorsville CDP,60
+2020,June,CA,Tecopa CDP,56.9
+2020,June,CA,Tehachapi city,11.3
+2020,June,CA,Tehama city,11.1
+2020,June,CA,Temecula city,12.4
+2020,June,CA,Temple City city,19.6
+2020,June,CA,Templeton CDP,4.8
+2020,June,CA,Terra Bella CDP,36.4
+2020,June,CA,Thermalito CDP,17.4
+2020,June,CA,Thousand Oaks city,10.9
+2020,June,CA,Thousand Palms CDP,9.7
+2020,June,CA,Three Rivers CDP,10.1
+2020,June,CA,Tipton CDP,27.6
+2020,June,CA,Tobin CDP,0
+2020,June,CA,Tomales CDP,0
+2020,June,CA,Toro Canyon CDP,3.5
+2020,June,CA,Torrance city,15
+2020,June,CA,Tracy city,14.1
+2020,June,CA,Tranquillity CDP,0
+2020,June,CA,Traver CDP,8.7
+2020,June,CA,Trinidad city,7
+2020,June,CA,Truckee town,8.1
+2020,June,CA,Tulare city,14.6
+2020,June,CA,Tuolumne City CDP,0
+2020,June,CA,Tupman CDP,34.8
+2020,June,CA,Turlock city,12.2
+2020,June,CA,Tustin city,11.4
+2020,June,CA,Twain CDP,0
+2020,June,CA,Twain Harte CDP,8.8
+2020,June,CA,Twentynine Palms city,12.2
+2020,June,CA,Twin Lakes CDP,9.1
+2020,June,CA,Ukiah city,13.6
+2020,June,CA,Union City city,11.7
+2020,June,CA,Upland city,12.5
+2020,June,CA,Upper Lake CDP,11.8
+2020,June,CA,Vacaville city,10.8
+2020,June,CA,Valinda CDP,18.9
+2020,June,CA,Vallejo city,14.8
+2020,June,CA,Valle Vista CDP,14.7
+2020,June,CA,Valley Acres CDP,33.5
+2020,June,CA,Valley Center CDP,10.3
+2020,June,CA,Valley Ranch CDP,0
+2020,June,CA,Valley Springs CDP,6.4
+2020,June,CA,Val Verde CDP,28.5
+2020,June,CA,Vandenberg AFB CDP,11.9
+2020,June,CA,Vandenberg Village CDP,7.6
+2020,June,CA,Vernon city,11.1
+2020,June,CA,Victorville city,16.3
+2020,June,CA,View Park Windsor Hills CDP,29.2
+2020,June,CA,Villa Park city,13.3
+2020,June,CA,Vine Hill CDP,7.2
+2020,June,CA,Vineyard CDP,10.6
+2020,June,CA,Visalia city,14.5
+2020,June,CA,Vista city,12.8
+2020,June,CA,Walnut city,14.9
+2020,June,CA,Walnut Creek city,9
+2020,June,CA,Walnut Grove CDP,23.5
+2020,June,CA,Walnut Park CDP,18.7
+2020,June,CA,Wasco city,19.1
+2020,June,CA,Waterford city,17
+2020,June,CA,Watsonville city,12.4
+2020,June,CA,Weaverville CDP,11.1
+2020,June,CA,Weed city,14.1
+2020,June,CA,Weedpatch CDP,17.9
+2020,June,CA,Weldon CDP,22.2
+2020,June,CA,West Athens CDP,23.2
+2020,June,CA,West Bishop CDP,6.5
+2020,June,CA,West Carson CDP,15.4
+2020,June,CA,West Covina city,18.6
+2020,June,CA,West Hollywood city,20
+2020,June,CA,Westlake Village city,10.3
+2020,June,CA,West Menlo Park CDP,11.6
+2020,June,CA,Westminster city,16.8
+2020,June,CA,West Modesto CDP,30.3
+2020,June,CA,Westmont CDP,24.4
+2020,June,CA,Westmorland city,23.4
+2020,June,CA,West Point CDP,0
+2020,June,CA,West Puente Valley CDP,25.6
+2020,June,CA,West Sacramento city,11.9
+2020,June,CA,West Whittier Los Nietos CDP,12.7
+2020,June,CA,Westwood CDP,2.5
+2020,June,CA,Wheatland city,14.9
+2020,June,CA,Whitehawk CDP,0
+2020,June,CA,Whittier city,17
+2020,June,CA,Wildomar city,12.7
+2020,June,CA,Wilkerson CDP,10.7
+2020,June,CA,Williams city,10.1
+2020,June,CA,Willits city,8
+2020,June,CA,Willowbrook CDP,25
+2020,June,CA,Willow Creek CDP,0
+2020,June,CA,Willows city,13
+2020,June,CA,Wilton CDP,7
+2020,June,CA,Winchester CDP,15.6
+2020,June,CA,Windsor town,9.1
+2020,June,CA,Winters city,10
+2020,June,CA,Winton CDP,23.4
+2020,June,CA,Wofford Heights CDP,16.9
+2020,June,CA,Woodcrest CDP,7.3
+2020,June,CA,Woodlake city,14.5
+2020,June,CA,Woodland city,10
+2020,June,CA,Woodville CDP,22.7
+2020,June,CA,Wrightwood CDP,9.5
+2020,June,CA,Yorba Linda city,10.2
+2020,June,CA,Yosemite Lakes CDP,13.1
+2020,June,CA,Yosemite Valley CDP,4.9
+2020,June,CA,Yountville town,12.4
+2020,June,CA,Yreka city,11.8
+2020,June,CA,Yuba City city,14
+2020,June,CA,Yucaipa city,10.9
+2020,June,CA,Yucca Valley town,17.4
+2020,June,CA,Anaheim-Santa Ana-Irvine,13.4
+2020,June,CA,Oakland-Hayward-Berkeley,13.2
+2020,June,CA,San Francisco-Redwood City-South San Francisco,11.5
+2020,June,CA,San Rafael,9.8
+2020,June,CA,Bakersfield,17.4
+2020,June,CA,Chico,11.7
+2020,June,CA,El Centro,28.7
+2020,June,CA,Fresno,15.1
+2020,June,CA,Hanford-Corcoran,14.8
+2020,June,CA,Los Angeles-Long Beach-Anaheim,17.6
+2020,June,CA,Madera,14.5
+2020,June,CA,Merced,15.9
+2020,June,CA,Modesto,15.2
+2020,June,CA,Napa,12.7
+2020,June,CA,Oxnard-Thousand Oaks-Ventura,12.6
+2020,June,CA,Redding,11.8
+2020,June,CA,Riverside-San Bernardino-Ontario,14
+2020,June,CA,Sacramento--Roseville--Arden-Arcade,12.8
+2020,June,CA,Salinas,16.5
+2020,June,CA,San Diego-Carlsbad,13.5
+2020,June,CA,San Francisco-Oakland-Hayward,12.5
+2020,June,CA,San Jose-Sunnyvale-Santa Clara,10.5
+2020,June,CA,San Luis Obispo-Paso Robles-Arroyo Grande,11.3
+2020,June,CA,Santa Cruz-Watsonville,14.2
+2020,June,CA,Santa Maria-Santa Barbara,11.9
+2020,June,CA,Santa Rosa,11.4
+2020,June,CA,Stockton-Lodi,15.9
+2020,June,CA,Vallejo-Fairfield,13.6
+2020,June,CA,Visalia-Porterville,17.8
+2020,June,CA,Yuba City,15.2
+2020,June,FL,Alachua County,6.5
+2020,June,FL,Baker County,5.9
+2020,June,FL,Bay County,6.9
+2020,June,FL,Bradford County,7
+2020,June,FL,Brevard County,8.2
+2020,June,FL,Broward County,11.8
+2020,June,FL,Calhoun County,6.2
+2020,June,FL,Charlotte County,9.1
+2020,June,FL,Citrus County,9.8
+2020,June,FL,Clay County,6.6
+2020,June,FL,Collier County,9.4
+2020,June,FL,Columbia County,6.8
+2020,June,FL,DeSoto County,5.9
+2020,June,FL,Dixie County,6.8
+2020,June,FL,Duval County,8.4
+2020,June,FL,Escambia County,7.9
+2020,June,FL,Flagler County,9.4
+2020,June,FL,Franklin County,6.2
+2020,June,FL,Gadsden County,7.4
+2020,June,FL,Gilchrist County,5.6
+2020,June,FL,Glades County,7.1
+2020,June,FL,Gulf County,6.8
+2020,June,FL,Hamilton County,8.4
+2020,June,FL,Hardee County,8.3
+2020,June,FL,Hendry County,10.6
+2020,June,FL,Hernando County,10
+2020,June,FL,Highlands County,8.9
+2020,June,FL,Hillsborough County,9
+2020,June,FL,Holmes County,6.5
+2020,June,FL,Indian River County,9.2
+2020,June,FL,Jackson County,6.9
+2020,June,FL,Jefferson County,6.6
+2020,June,FL,Lafayette County,4.8
+2020,June,FL,Lake County,13.8
+2020,June,FL,Lee County,9.6
+2020,June,FL,Leon County,7
+2020,June,FL,Levy County,7.3
+2020,June,FL,Liberty County,5.9
+2020,June,FL,Madison County,7
+2020,June,FL,Manatee County,8.4
+2020,June,FL,Marion County,8.3
+2020,June,FL,Martin County,7.8
+2020,June,FL,Miami-Dade County,11.8
+2020,June,FL,Monroe County,9.7
+2020,June,FL,Nassau County,7.2
+2020,June,FL,Okaloosa County,6.2
+2020,June,FL,Okeechobee County,6.8
+2020,June,FL,Orange County,16.9
+2020,June,FL,Osceola County,22.3
+2020,June,FL,Palm Beach County,10.2
+2020,June,FL,Pasco County,9.1
+2020,June,FL,Pinellas County,8.8
+2020,June,FL,Polk County,13.6
+2020,June,FL,Putnam County,9.3
+2020,June,FL,Santa Rosa County,6.3
+2020,June,FL,Sarasota County,8.5
+2020,June,FL,Seminole County,10
+2020,June,FL,St. Johns County,6.8
+2020,June,FL,St. Lucie County,9.7
+2020,June,FL,Sumter County,9.4
+2020,June,FL,Suwannee County,6.8
+2020,June,FL,Taylor County,7.1
+2020,June,FL,Union County,5.4
+2020,June,FL,Volusia County,9.5
+2020,June,FL,Wakulla County,5.6
+2020,June,FL,Walton County,6.8
+2020,June,FL,Washington County,6.8
+2020,June,FL,Florida (Not Seasonally Adjusted),10.5
+2020,June,FL,Florida (Seasonally Adjusted),10.3
+2020,June,FL,United States (Not Seasonally Adjusted),11.2
+2020,June,FL,United States (Seasonally Adjusted),11.1
+2020,June,NY,Hamilton County,7.7
+2020,June,NY,Chenango County,8.4
+2020,June,NY,Yates County,8.5
+2020,June,NY,Columbia County,8.8
+2020,June,NY,Tompkins County,8.9
+2020,June,NY,Delaware County,9.2
+2020,June,NY,Lewis County,9.2
+2020,June,NY,Wyoming County,9.2
+2020,June,NY,Otsego County,9.3
+2020,June,NY,Schoharie County,9.3
+2020,June,NY,Livingston County,9.5
+2020,June,NY,Genesee County,9.6
+2020,June,NY,Washington County,9.8
+2020,June,NY,Wayne County,9.8
+2020,June,NY,Herkimer County,9.9
+2020,June,NY,Rensselaer County,9.9
+2020,June,NY,Ontario County,10.2
+2020,June,NY,Saratoga County,10.2
+2020,June,NY,Clinton County,10.3
+2020,June,NY,Cortland County,10.3
+2020,June,NY,Tioga County,10.3
+2020,June,NY,Albany County,10.4
+2020,June,NY,Essex County,10.5
+2020,June,NY,Allegany County,10.6
+2020,June,NY,Cayuga County,10.6
+2020,June,NY,Madison County,10.6
+2020,June,NY,St. Lawrence County,10.7
+2020,June,NY,Oneida County,11
+2020,June,NY,Orleans County,11
+2020,June,NY,Seneca County,11
+2020,June,NY,Franklin County,11.1
+2020,June,NY,Schuyler County,11.1
+2020,June,NY,Steuben County,11.1
+2020,June,NY,Chautauqua County,11.2
+2020,June,NY,Jefferson County,11.2
+2020,June,NY,Putnam County,11.2
+2020,June,NY,Broome County,11.3
+2020,June,NY,Fulton County,11.3
+2020,June,NY,Ulster County,11.3
+2020,June,NY,Dutchess County,11.5
+2020,June,NY,Greene County,11.5
+2020,June,NY,Montgomery County,11.6
+2020,June,NY,Warren County,11.6
+2020,June,NY,Schenectady County,11.7
+2020,June,NY,Oswego County,11.8
+2020,June,NY,Chemung County,11.9
+2020,June,NY,Monroe County,11.9
+2020,June,NY,Onondaga County,12.1
+2020,June,NY,Rockland County,12.1
+2020,June,NY,Sullivan County,12.2
+2020,June,NY,Westchester County,12.5
+2020,June,NY,Orange County,12.7
+2020,June,NY,Cattaraugus County,12.9
+2020,June,NY,Suffolk County,12.9
+2020,June,NY,Nassau County,13
+2020,June,NY,Erie County,13.5
+2020,June,NY,Niagara County,14.6
+2020,June,NY,New York County,16
+2020,June,NY,Richmond County,18.1
+2020,June,NY,Kings County,20.5
+2020,June,NY,Queens County,21.8
+2020,June,NY,Bronx County,24.7
